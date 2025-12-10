@@ -1,8 +1,8 @@
 {
   "account": {
     "cash": "15196.02",
-    "equity": "100139.02",
-    "portfolioValue": "100139.02",
+    "equity": "100215.27",
+    "portfolioValue": "100215.27",
     "originalInvestment": 100000
   },
   "history": [
@@ -3326,29 +3326,29 @@
     },
     {
       "timestamp": 1765397700,
-      "equity": 100139.02,
-      "change": 762.5,
-      "changePercent": 0.0077
+      "equity": 100215.27,
+      "change": 838.75,
+      "changePercent": 0.0084
     }
   ],
   "positions": [
     {
       "symbol": "AAPL",
       "qty": "75",
-      "marketValue": "20925",
+      "marketValue": "20927.25",
       "costBasis": "20864.094",
-      "currentPrice": "279",
+      "currentPrice": "279.03",
       "lastdayPrice": "277.18",
-      "changeToday": "0.0065661303124324"
+      "changeToday": "0.0066743632296703"
     },
     {
       "symbol": "GOOG",
       "qty": "200",
-      "marketValue": "64018",
+      "marketValue": "64092",
       "costBasis": "63974",
-      "currentPrice": "320.09",
+      "currentPrice": "320.46",
       "lastdayPrice": "317.75",
-      "changeToday": "0.0073642800944138"
+      "changeToday": "0.00852871754524"
     }
   ],
   "activities": {
