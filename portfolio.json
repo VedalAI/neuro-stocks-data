@@ -1,8 +1,8 @@
 {
   "account": {
     "cash": "15196.02",
-    "equity": "100215.27",
-    "portfolioValue": "100215.27",
+    "equity": "100255.9",
+    "portfolioValue": "100255.9",
     "originalInvestment": 100000
   },
   "history": [
@@ -3326,33 +3326,39 @@
     },
     {
       "timestamp": 1765397700,
-      "equity": 100215.27,
-      "change": 838.75,
-      "changePercent": 0.0084
+      "equity": 100292.27,
+      "change": 915.75,
+      "changePercent": 0.0092
+    },
+    {
+      "timestamp": 1765398600,
+      "equity": 100259.52,
+      "change": 883,
+      "changePercent": 0.0089
     }
   ],
   "positions": [
     {
       "symbol": "AAPL",
       "qty": "75",
-      "marketValue": "20927.25",
+      "marketValue": "20929.5",
       "costBasis": "20864.094",
-      "currentPrice": "279.03",
+      "currentPrice": "279.06",
       "lastdayPrice": "277.18",
-      "changeToday": "0.0066743632296703"
+      "changeToday": "0.0067825961469081"
     },
     {
       "symbol": "GOOG",
       "qty": "200",
-      "marketValue": "64092",
+      "marketValue": "64134",
       "costBasis": "63974",
-      "currentPrice": "320.46",
+      "currentPrice": "320.67",
       "lastdayPrice": "317.75",
-      "changeToday": "0.00852871754524"
+      "changeToday": "0.0091896144767899"
     }
   ],
   "activities": {
-    "22c12423-3020-4aef-b6ee-fd2dec8f6f4a": [
+    "e9e7890cd788028605091e40b48c13f86edd39ad8a6002407e4543e6a158aa45": [
       {
         "activity_type": "FILL",
         "transaction_time": "2025-11-28T17:50:08.800776Z",
@@ -3362,7 +3368,7 @@
         "side": "buy",
         "symbol": "TSLA",
         "leaves_qty": "2",
-        "order_id": "22c12423-3020-4aef-b6ee-fd2dec8f6f4a",
+        "order_id": "e9e7890cd788028605091e40b48c13f86edd39ad8a6002407e4543e6a158aa45",
         "cum_qty": "1",
         "order_status": "partially_filled"
       },
@@ -3375,7 +3381,7 @@
         "side": "buy",
         "symbol": "TSLA",
         "leaves_qty": "1",
-        "order_id": "22c12423-3020-4aef-b6ee-fd2dec8f6f4a",
+        "order_id": "e9e7890cd788028605091e40b48c13f86edd39ad8a6002407e4543e6a158aa45",
         "cum_qty": "2",
         "order_status": "partially_filled"
       },
@@ -3388,12 +3394,12 @@
         "side": "buy",
         "symbol": "TSLA",
         "leaves_qty": "0",
-        "order_id": "22c12423-3020-4aef-b6ee-fd2dec8f6f4a",
+        "order_id": "e9e7890cd788028605091e40b48c13f86edd39ad8a6002407e4543e6a158aa45",
         "cum_qty": "3",
         "order_status": "filled"
       }
     ],
-    "83e71b35-6c7f-4f38-8314-86f5571ac011": [
+    "bd84cab248306b7f2b490080c93caff2b7e5c52349339733977222273ae1ce33": [
       {
         "activity_type": "FILL",
         "transaction_time": "2025-11-28T17:50:40.944718Z",
@@ -3403,7 +3409,7 @@
         "side": "buy",
         "symbol": "AAPL",
         "leaves_qty": "52",
-        "order_id": "83e71b35-6c7f-4f38-8314-86f5571ac011",
+        "order_id": "bd84cab248306b7f2b490080c93caff2b7e5c52349339733977222273ae1ce33",
         "cum_qty": "48",
         "order_status": "partially_filled"
       },
@@ -3416,12 +3422,12 @@
         "side": "buy",
         "symbol": "AAPL",
         "leaves_qty": "0",
-        "order_id": "83e71b35-6c7f-4f38-8314-86f5571ac011",
+        "order_id": "bd84cab248306b7f2b490080c93caff2b7e5c52349339733977222273ae1ce33",
         "cum_qty": "100",
         "order_status": "filled"
       }
     ],
-    "1d17740d-5c1f-4a1b-a735-5c80c2e79679": [
+    "0eebea87fe1e3208cf9e95e7ce49f6da53c827d2cfc07f2e314f5d5f3437b392": [
       {
         "activity_type": "FILL",
         "transaction_time": "2025-11-28T17:50:51.253039Z",
@@ -3431,12 +3437,12 @@
         "side": "buy",
         "symbol": "GOOG",
         "leaves_qty": "0",
-        "order_id": "1d17740d-5c1f-4a1b-a735-5c80c2e79679",
+        "order_id": "0eebea87fe1e3208cf9e95e7ce49f6da53c827d2cfc07f2e314f5d5f3437b392",
         "cum_qty": "200",
         "order_status": "filled"
       }
     ],
-    "246b2968-d738-4bbd-a87b-c563ccb9f9f1": [
+    "ebd03d6e468a5f09fba4c98b0d66b414f8eb04d8115790b0ea945211ca9a5499": [
       {
         "activity_type": "FILL",
         "transaction_time": "2025-11-28T17:57:24.69461Z",
@@ -3446,7 +3452,7 @@
         "side": "sell",
         "symbol": "TSLA",
         "leaves_qty": "2",
-        "order_id": "246b2968-d738-4bbd-a87b-c563ccb9f9f1",
+        "order_id": "ebd03d6e468a5f09fba4c98b0d66b414f8eb04d8115790b0ea945211ca9a5499",
         "cum_qty": "1",
         "order_status": "partially_filled"
       },
@@ -3459,7 +3465,7 @@
         "side": "sell",
         "symbol": "TSLA",
         "leaves_qty": "1",
-        "order_id": "246b2968-d738-4bbd-a87b-c563ccb9f9f1",
+        "order_id": "ebd03d6e468a5f09fba4c98b0d66b414f8eb04d8115790b0ea945211ca9a5499",
         "cum_qty": "2",
         "order_status": "partially_filled"
       },
@@ -3472,12 +3478,12 @@
         "side": "sell",
         "symbol": "TSLA",
         "leaves_qty": "0",
-        "order_id": "246b2968-d738-4bbd-a87b-c563ccb9f9f1",
+        "order_id": "ebd03d6e468a5f09fba4c98b0d66b414f8eb04d8115790b0ea945211ca9a5499",
         "cum_qty": "3",
         "order_status": "filled"
       }
     ],
-    "d9843efe-aaa3-48ca-b010-a2ce17c077ea": [
+    "f4a3a39826b4a2cff6bddfb04ca7960dba7d0e407641c8b18fba221a59ef523e": [
       {
         "activity_type": "FILL",
         "transaction_time": "2025-11-28T17:57:32.683219Z",
@@ -3487,7 +3493,7 @@
         "side": "buy",
         "symbol": "AAPL",
         "leaves_qty": "19",
-        "order_id": "d9843efe-aaa3-48ca-b010-a2ce17c077ea",
+        "order_id": "f4a3a39826b4a2cff6bddfb04ca7960dba7d0e407641c8b18fba221a59ef523e",
         "cum_qty": "6",
         "order_status": "partially_filled"
       },
@@ -3500,7 +3506,7 @@
         "side": "buy",
         "symbol": "AAPL",
         "leaves_qty": "8",
-        "order_id": "d9843efe-aaa3-48ca-b010-a2ce17c077ea",
+        "order_id": "f4a3a39826b4a2cff6bddfb04ca7960dba7d0e407641c8b18fba221a59ef523e",
         "cum_qty": "17",
         "order_status": "partially_filled"
       },
@@ -3513,7 +3519,7 @@
         "side": "buy",
         "symbol": "AAPL",
         "leaves_qty": "4",
-        "order_id": "d9843efe-aaa3-48ca-b010-a2ce17c077ea",
+        "order_id": "f4a3a39826b4a2cff6bddfb04ca7960dba7d0e407641c8b18fba221a59ef523e",
         "cum_qty": "21",
         "order_status": "partially_filled"
       },
@@ -3526,7 +3532,7 @@
         "side": "buy",
         "symbol": "AAPL",
         "leaves_qty": "2",
-        "order_id": "d9843efe-aaa3-48ca-b010-a2ce17c077ea",
+        "order_id": "f4a3a39826b4a2cff6bddfb04ca7960dba7d0e407641c8b18fba221a59ef523e",
         "cum_qty": "23",
         "order_status": "partially_filled"
       },
@@ -3539,12 +3545,12 @@
         "side": "buy",
         "symbol": "AAPL",
         "leaves_qty": "0",
-        "order_id": "d9843efe-aaa3-48ca-b010-a2ce17c077ea",
+        "order_id": "f4a3a39826b4a2cff6bddfb04ca7960dba7d0e407641c8b18fba221a59ef523e",
         "cum_qty": "25",
         "order_status": "filled"
       }
     ],
-    "fa541b47-53f7-43e3-bcfd-df4cbe15f141": [
+    "b8d1d8ba6520d0747db97385e4e9eb8ab469be49fcdeff4b0ad48a87569c1bc4": [
       {
         "activity_type": "FILL",
         "transaction_time": "2025-11-28T17:58:58.744181Z",
@@ -3554,7 +3560,7 @@
         "side": "sell",
         "symbol": "AAPL",
         "leaves_qty": "0",
-        "order_id": "fa541b47-53f7-43e3-bcfd-df4cbe15f141",
+        "order_id": "b8d1d8ba6520d0747db97385e4e9eb8ab469be49fcdeff4b0ad48a87569c1bc4",
         "cum_qty": "50",
         "order_status": "filled"
       }
