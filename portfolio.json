@@ -1,3566 +1,430 @@
 {
   "account": {
-    "cash": "15196.02",
-    "equity": "100210.27",
-    "portfolioValue": "100210.27",
-    "originalInvestment": 100000
+    "cash": "117287.38",
+    "equity": "100971.22",
+    "portfolioValue": "100971.22",
+    "originalInvestment": 20000
   },
   "history": [
     {
-      "timestamp": 1764320400,
-      "equity": 100000,
-      "change": 0,
+      "timestamp": 1765530000,
+      "equity": 100549.72,
+      "change": 4.82,
       "changePercent": 0
     },
     {
-      "timestamp": 1764321300,
-      "equity": 100000,
-      "change": 0,
+      "timestamp": 1765530900,
+      "equity": 100549.72,
+      "change": 4.82,
       "changePercent": 0
     },
     {
-      "timestamp": 1764322200,
-      "equity": 100000,
-      "change": 0,
+      "timestamp": 1765531800,
+      "equity": 100562.5,
+      "change": 17.6,
+      "changePercent": 0.0002
+    },
+    {
+      "timestamp": 1765532700,
+      "equity": 100560.62,
+      "change": 15.72,
+      "changePercent": 0.0002
+    },
+    {
+      "timestamp": 1765533600,
+      "equity": 100573.93,
+      "change": 29.03,
+      "changePercent": 0.0003
+    },
+    {
+      "timestamp": 1765534500,
+      "equity": 100541.72,
+      "change": -3.18,
       "changePercent": 0
     },
     {
-      "timestamp": 1764323100,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764324000,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764324900,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764325800,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764326700,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764327600,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764328500,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764329400,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764330300,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764331200,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764332100,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764333000,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764333900,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764334800,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764335700,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764336600,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764337500,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764338400,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764339300,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764340200,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764341100,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764342000,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764342900,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764343800,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764344700,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764345600,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764346500,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764347400,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764348300,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764349200,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764350100,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764351000,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764351900,
-      "equity": 100000,
-      "change": 0,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764352800,
-      "equity": 100138.55,
-      "change": 138.55,
-      "changePercent": 0.0014
-    },
-    {
-      "timestamp": 1764353700,
-      "equity": 100094.84,
-      "change": 94.84,
-      "changePercent": 0.0009
-    },
-    {
-      "timestamp": 1764354600,
-      "equity": 100082.06,
-      "change": 82.06,
-      "changePercent": 0.0008
-    },
-    {
-      "timestamp": 1764355500,
-      "equity": 100064.8,
-      "change": 64.8,
-      "changePercent": 0.0006
-    },
-    {
-      "timestamp": 1764356400,
-      "equity": 100056.05,
-      "change": 56.05,
-      "changePercent": 0.0006
-    },
-    {
-      "timestamp": 1764357300,
-      "equity": 100050.82,
-      "change": 50.82,
-      "changePercent": 0.0005
-    },
-    {
-      "timestamp": 1764358200,
-      "equity": 100080.05,
-      "change": 80.05,
-      "changePercent": 0.0008
-    },
-    {
-      "timestamp": 1764359100,
-      "equity": 100054.3,
-      "change": 54.3,
-      "changePercent": 0.0005
-    },
-    {
-      "timestamp": 1764360000,
-      "equity": 100081.8,
-      "change": 81.8,
-      "changePercent": 0.0008
-    },
-    {
-      "timestamp": 1764360900,
-      "equity": 100077.32,
-      "change": 77.32,
-      "changePercent": 0.0008
-    },
-    {
-      "timestamp": 1764361800,
-      "equity": 100110.56,
-      "change": 110.56,
-      "changePercent": 0.0011
-    },
-    {
-      "timestamp": 1764362700,
-      "equity": 100081.05,
-      "change": 81.05,
-      "changePercent": 0.0008
-    },
-    {
-      "timestamp": 1764363600,
-      "equity": 100099.8,
-      "change": 99.8,
-      "changePercent": 0.001
-    },
-    {
-      "timestamp": 1764364500,
-      "equity": 100058.8,
-      "change": 58.8,
-      "changePercent": 0.0006
-    },
-    {
-      "timestamp": 1764365400,
-      "equity": 100091.8,
-      "change": 91.8,
-      "changePercent": 0.0009
-    },
-    {
-      "timestamp": 1764366300,
-      "equity": 100058.31,
-      "change": 58.31,
-      "changePercent": 0.0006
-    },
-    {
-      "timestamp": 1764367200,
-      "equity": 100041.55,
-      "change": 41.55,
-      "changePercent": 0.0004
-    },
-    {
-      "timestamp": 1764579600,
-      "equity": 99625.27,
-      "change": -416.28,
-      "changePercent": -0.0042
-    },
-    {
-      "timestamp": 1764580500,
-      "equity": 99625.27,
-      "change": -416.28,
-      "changePercent": -0.0042
-    },
-    {
-      "timestamp": 1764581400,
-      "equity": 99507.52,
-      "change": -534.03,
-      "changePercent": -0.0053
-    },
-    {
-      "timestamp": 1764582300,
-      "equity": 99454.02,
-      "change": -587.53,
-      "changePercent": -0.0059
-    },
-    {
-      "timestamp": 1764583200,
-      "equity": 99454.77,
-      "change": -586.78,
-      "changePercent": -0.0059
-    },
-    {
-      "timestamp": 1764584100,
-      "equity": 99665.52,
-      "change": -376.03,
-      "changePercent": -0.0038
-    },
-    {
-      "timestamp": 1764585000,
-      "equity": 99645.02,
-      "change": -396.53,
-      "changePercent": -0.004
-    },
-    {
-      "timestamp": 1764585900,
-      "equity": 99646.52,
-      "change": -395.03,
-      "changePercent": -0.0039
-    },
-    {
-      "timestamp": 1764586800,
-      "equity": 99699.02,
-      "change": -342.53,
-      "changePercent": -0.0034
-    },
-    {
-      "timestamp": 1764587700,
-      "equity": 99789.02,
-      "change": -252.53,
-      "changePercent": -0.0025
-    },
-    {
-      "timestamp": 1764588600,
-      "equity": 99693.52,
-      "change": -348.03,
-      "changePercent": -0.0035
-    },
-    {
-      "timestamp": 1764589500,
-      "equity": 99524.77,
-      "change": -516.78,
-      "changePercent": -0.0052
-    },
-    {
-      "timestamp": 1764590400,
-      "equity": 99652.52,
-      "change": -389.03,
-      "changePercent": -0.0039
-    },
-    {
-      "timestamp": 1764591300,
-      "equity": 99478.52,
-      "change": -563.03,
-      "changePercent": -0.0056
-    },
-    {
-      "timestamp": 1764592200,
-      "equity": 99390.02,
-      "change": -651.53,
-      "changePercent": -0.0065
-    },
-    {
-      "timestamp": 1764593100,
-      "equity": 99143.77,
-      "change": -897.78,
-      "changePercent": -0.009
-    },
-    {
-      "timestamp": 1764594000,
-      "equity": 99276.52,
-      "change": -765.03,
-      "changePercent": -0.0076
-    },
-    {
-      "timestamp": 1764594900,
-      "equity": 99391.65,
-      "change": -649.9,
-      "changePercent": -0.0065
-    },
-    {
-      "timestamp": 1764595800,
-      "equity": 99504.27,
-      "change": -537.28,
-      "changePercent": -0.0054
-    },
-    {
-      "timestamp": 1764596700,
-      "equity": 99557.02,
-      "change": -484.53,
-      "changePercent": -0.0048
-    },
-    {
-      "timestamp": 1764597600,
-      "equity": 99551.02,
-      "change": -490.53,
-      "changePercent": -0.0049
-    },
-    {
-      "timestamp": 1764598500,
-      "equity": 99737.75,
-      "change": -303.8,
-      "changePercent": -0.003
-    },
-    {
-      "timestamp": 1764599400,
-      "equity": 99547.52,
-      "change": -494.03,
-      "changePercent": -0.0049
-    },
-    {
-      "timestamp": 1764600300,
-      "equity": 98926.03,
-      "change": -1115.52,
-      "changePercent": -0.0112
-    },
-    {
-      "timestamp": 1764601200,
-      "equity": 99391.77,
-      "change": -649.78,
-      "changePercent": -0.0065
-    },
-    {
-      "timestamp": 1764602100,
-      "equity": 99430.28,
-      "change": -611.27,
-      "changePercent": -0.0061
-    },
-    {
-      "timestamp": 1764603000,
-      "equity": 99458.68,
-      "change": -582.87,
-      "changePercent": -0.0058
-    },
-    {
-      "timestamp": 1764603900,
-      "equity": 99526.02,
-      "change": -515.53,
-      "changePercent": -0.0052
-    },
-    {
-      "timestamp": 1764604800,
-      "equity": 99722.52,
-      "change": -319.03,
-      "changePercent": -0.0032
-    },
-    {
-      "timestamp": 1764605700,
-      "equity": 99239.35,
-      "change": -802.2,
-      "changePercent": -0.008
-    },
-    {
-      "timestamp": 1764606600,
-      "equity": 99401.52,
-      "change": -640.03,
-      "changePercent": -0.0064
-    },
-    {
-      "timestamp": 1764607500,
-      "equity": 99710.97,
-      "change": -330.58,
-      "changePercent": -0.0033
-    },
-    {
-      "timestamp": 1764608400,
-      "equity": 99588.9,
-      "change": -452.65,
-      "changePercent": -0.0045
-    },
-    {
-      "timestamp": 1764609300,
-      "equity": 99669.49,
-      "change": -372.06,
-      "changePercent": -0.0037
-    },
-    {
-      "timestamp": 1764610200,
-      "equity": 99743.81,
-      "change": -297.74,
-      "changePercent": -0.003
-    },
-    {
-      "timestamp": 1764611100,
-      "equity": 99838.52,
-      "change": -203.03,
-      "changePercent": -0.002
-    },
-    {
-      "timestamp": 1764612000,
-      "equity": 99695.27,
-      "change": -346.28,
-      "changePercent": -0.0035
-    },
-    {
-      "timestamp": 1764612900,
-      "equity": 99727.99,
-      "change": -313.56,
-      "changePercent": -0.0031
-    },
-    {
-      "timestamp": 1764613800,
-      "equity": 99696.48,
-      "change": -345.07,
-      "changePercent": -0.0034
-    },
-    {
-      "timestamp": 1764614700,
-      "equity": 99766.27,
-      "change": -275.28,
-      "changePercent": -0.0028
-    },
-    {
-      "timestamp": 1764615600,
-      "equity": 99828.98,
-      "change": -212.57,
-      "changePercent": -0.0021
-    },
-    {
-      "timestamp": 1764616500,
-      "equity": 99595.95,
-      "change": -445.6,
-      "changePercent": -0.0045
-    },
-    {
-      "timestamp": 1764617400,
-      "equity": 99508.77,
-      "change": -532.78,
-      "changePercent": -0.0053
-    },
-    {
-      "timestamp": 1764618300,
-      "equity": 99519.97,
-      "change": -521.58,
-      "changePercent": -0.0052
-    },
-    {
-      "timestamp": 1764619200,
-      "equity": 99547.77,
-      "change": -493.78,
-      "changePercent": -0.0049
-    },
-    {
-      "timestamp": 1764620100,
-      "equity": 99660.83,
-      "change": -380.72,
-      "changePercent": -0.0038
-    },
-    {
-      "timestamp": 1764621000,
-      "equity": 99683.25,
-      "change": -358.3,
-      "changePercent": -0.0036
-    },
-    {
-      "timestamp": 1764621900,
-      "equity": 99658.77,
-      "change": -382.78,
-      "changePercent": -0.0038
-    },
-    {
-      "timestamp": 1764622800,
-      "equity": 99493.02,
-      "change": -548.53,
-      "changePercent": -0.0055
-    },
-    {
-      "timestamp": 1764623700,
-      "equity": 99456.27,
-      "change": -585.28,
-      "changePercent": -0.0059
-    },
-    {
-      "timestamp": 1764624600,
-      "equity": 99498.02,
-      "change": -543.53,
-      "changePercent": -0.0054
-    },
-    {
-      "timestamp": 1764625500,
-      "equity": 99500.02,
-      "change": -541.53,
-      "changePercent": -0.0054
-    },
-    {
-      "timestamp": 1764626400,
-      "equity": 99502.62,
-      "change": -538.93,
-      "changePercent": -0.0054
-    },
-    {
-      "timestamp": 1764627300,
-      "equity": 99539.77,
-      "change": -501.78,
-      "changePercent": -0.005
-    },
-    {
-      "timestamp": 1764628200,
-      "equity": 99570.88,
-      "change": -470.67,
-      "changePercent": -0.0047
-    },
-    {
-      "timestamp": 1764629100,
-      "equity": 99648.09,
-      "change": -393.46,
-      "changePercent": -0.0039
-    },
-    {
-      "timestamp": 1764630000,
-      "equity": 99621.77,
-      "change": -419.78,
-      "changePercent": -0.0042
-    },
-    {
-      "timestamp": 1764630900,
-      "equity": 99563.52,
-      "change": -478.03,
-      "changePercent": -0.0048
-    },
-    {
-      "timestamp": 1764631800,
-      "equity": 99634.02,
-      "change": -407.53,
-      "changePercent": -0.0041
-    },
-    {
-      "timestamp": 1764632700,
-      "equity": 99636.08,
-      "change": -405.47,
-      "changePercent": -0.0041
-    },
-    {
-      "timestamp": 1764633600,
-      "equity": 99626.27,
-      "change": -415.28,
-      "changePercent": -0.0042
-    },
-    {
-      "timestamp": 1764634500,
-      "equity": 99580.52,
-      "change": -461.03,
-      "changePercent": -0.0046
-    },
-    {
-      "timestamp": 1764635400,
-      "equity": 99546.52,
-      "change": -495.03,
-      "changePercent": -0.0049
-    },
-    {
-      "timestamp": 1764636300,
-      "equity": 99595.77,
-      "change": -445.78,
-      "changePercent": -0.0045
-    },
-    {
-      "timestamp": 1764637200,
-      "equity": 99597.77,
-      "change": -443.78,
-      "changePercent": -0.0044
-    },
-    {
-      "timestamp": 1764666000,
-      "equity": 99780.27,
-      "change": 182.5,
-      "changePercent": 0.0018
-    },
-    {
-      "timestamp": 1764666900,
-      "equity": 99780.27,
-      "change": 182.5,
-      "changePercent": 0.0018
-    },
-    {
-      "timestamp": 1764667800,
-      "equity": 99742.77,
-      "change": 145,
-      "changePercent": 0.0015
-    },
-    {
-      "timestamp": 1764668700,
-      "equity": 99737.02,
-      "change": 139.25,
-      "changePercent": 0.0014
-    },
-    {
-      "timestamp": 1764669600,
-      "equity": 99718.02,
-      "change": 120.25,
-      "changePercent": 0.0012
-    },
-    {
-      "timestamp": 1764670500,
-      "equity": 99703.52,
-      "change": 105.75,
-      "changePercent": 0.0011
-    },
-    {
-      "timestamp": 1764671400,
-      "equity": 99750.02,
-      "change": 152.25,
-      "changePercent": 0.0015
-    },
-    {
-      "timestamp": 1764672300,
-      "equity": 99760.52,
-      "change": 162.75,
-      "changePercent": 0.0016
-    },
-    {
-      "timestamp": 1764673200,
-      "equity": 99812.02,
-      "change": 214.25,
-      "changePercent": 0.0022
-    },
-    {
-      "timestamp": 1764674100,
-      "equity": 99795.52,
-      "change": 197.75,
-      "changePercent": 0.002
-    },
-    {
-      "timestamp": 1764675000,
-      "equity": 99941.02,
-      "change": 343.25,
-      "changePercent": 0.0034
-    },
-    {
-      "timestamp": 1764675900,
-      "equity": 99942.52,
-      "change": 344.75,
-      "changePercent": 0.0035
-    },
-    {
-      "timestamp": 1764676800,
-      "equity": 99789.02,
-      "change": 191.25,
-      "changePercent": 0.0019
-    },
-    {
-      "timestamp": 1764677700,
-      "equity": 99704.27,
-      "change": 106.5,
-      "changePercent": 0.0011
-    },
-    {
-      "timestamp": 1764678600,
-      "equity": 99700.02,
-      "change": 102.25,
-      "changePercent": 0.001
-    },
-    {
-      "timestamp": 1764679500,
-      "equity": 99661.77,
-      "change": 64,
-      "changePercent": 0.0006
-    },
-    {
-      "timestamp": 1764680400,
-      "equity": 99708.52,
-      "change": 110.75,
-      "changePercent": 0.0011
-    },
-    {
-      "timestamp": 1764681300,
-      "equity": 99657.02,
-      "change": 59.25,
-      "changePercent": 0.0006
-    },
-    {
-      "timestamp": 1764682200,
-      "equity": 99590.77,
-      "change": -7,
-      "changePercent": -0.0001
-    },
-    {
-      "timestamp": 1764683100,
-      "equity": 99647.99,
-      "change": 50.22,
-      "changePercent": 0.0005
-    },
-    {
-      "timestamp": 1764684000,
-      "equity": 99609.36,
-      "change": 11.59,
-      "changePercent": 0.0001
-    },
-    {
-      "timestamp": 1764684900,
-      "equity": 99570.52,
-      "change": -27.25,
+      "timestamp": 1765535400,
+      "equity": 100513.31,
+      "change": -31.59,
       "changePercent": -0.0003
     },
     {
-      "timestamp": 1764685800,
-      "equity": 99781.02,
-      "change": 183.25,
-      "changePercent": 0.0018
-    },
-    {
-      "timestamp": 1764686700,
-      "equity": 100005.02,
-      "change": 407.25,
-      "changePercent": 0.0041
-    },
-    {
-      "timestamp": 1764687600,
-      "equity": 99756.27,
-      "change": 158.5,
-      "changePercent": 0.0016
-    },
-    {
-      "timestamp": 1764688500,
-      "equity": 100021,
-      "change": 423.23,
-      "changePercent": 0.0042
-    },
-    {
-      "timestamp": 1764689400,
-      "equity": 99854.17,
-      "change": 256.4,
-      "changePercent": 0.0026
-    },
-    {
-      "timestamp": 1764690300,
-      "equity": 99970.77,
-      "change": 373,
-      "changePercent": 0.0037
-    },
-    {
-      "timestamp": 1764691200,
-      "equity": 100269.68,
-      "change": 671.91,
-      "changePercent": 0.0067
-    },
-    {
-      "timestamp": 1764692100,
-      "equity": 99728.77,
-      "change": 131,
-      "changePercent": 0.0013
-    },
-    {
-      "timestamp": 1764693000,
-      "equity": 99584.29,
-      "change": -13.48,
+      "timestamp": 1765536300,
+      "equity": 100531.87,
+      "change": -13.03,
       "changePercent": -0.0001
     },
     {
-      "timestamp": 1764693900,
-      "equity": 99701.52,
-      "change": 103.75,
-      "changePercent": 0.001
+      "timestamp": 1765537200,
+      "equity": 100568.65,
+      "change": 23.75,
+      "changePercent": 0.0002
     },
     {
-      "timestamp": 1764694800,
-      "equity": 99580.77,
-      "change": -17,
+      "timestamp": 1765538100,
+      "equity": 100564.8,
+      "change": 19.9,
+      "changePercent": 0.0002
+    },
+    {
+      "timestamp": 1765539000,
+      "equity": 100524.74,
+      "change": -20.16,
       "changePercent": -0.0002
     },
     {
-      "timestamp": 1764695700,
-      "equity": 99637.34,
-      "change": 39.57,
-      "changePercent": 0.0004
-    },
-    {
-      "timestamp": 1764696600,
-      "equity": 99834.27,
-      "change": 236.5,
-      "changePercent": 0.0024
-    },
-    {
-      "timestamp": 1764697500,
-      "equity": 99743.79,
-      "change": 146.02,
-      "changePercent": 0.0015
-    },
-    {
-      "timestamp": 1764698400,
-      "equity": 99497.28,
-      "change": -100.49,
-      "changePercent": -0.001
-    },
-    {
-      "timestamp": 1764699300,
-      "equity": 99671.77,
-      "change": 74,
-      "changePercent": 0.0007
-    },
-    {
-      "timestamp": 1764700200,
-      "equity": 99887.15,
-      "change": 289.38,
-      "changePercent": 0.0029
-    },
-    {
-      "timestamp": 1764701100,
-      "equity": 99901.24,
-      "change": 303.47,
-      "changePercent": 0.003
-    },
-    {
-      "timestamp": 1764702000,
-      "equity": 99957.51,
-      "change": 359.74,
-      "changePercent": 0.0036
-    },
-    {
-      "timestamp": 1764702900,
-      "equity": 99996.9,
-      "change": 399.13,
-      "changePercent": 0.004
-    },
-    {
-      "timestamp": 1764703800,
-      "equity": 99994.38,
-      "change": 396.61,
-      "changePercent": 0.004
-    },
-    {
-      "timestamp": 1764704700,
-      "equity": 99917.77,
-      "change": 320,
-      "changePercent": 0.0032
-    },
-    {
-      "timestamp": 1764705600,
-      "equity": 100011.63,
-      "change": 413.86,
-      "changePercent": 0.0042
-    },
-    {
-      "timestamp": 1764706500,
-      "equity": 99917.52,
-      "change": 319.75,
-      "changePercent": 0.0032
-    },
-    {
-      "timestamp": 1764707400,
-      "equity": 99864.02,
-      "change": 266.25,
-      "changePercent": 0.0027
-    },
-    {
-      "timestamp": 1764708300,
-      "equity": 99800.27,
-      "change": 202.5,
-      "changePercent": 0.002
-    },
-    {
-      "timestamp": 1764709200,
-      "equity": 99877.27,
-      "change": 279.5,
-      "changePercent": 0.0028
-    },
-    {
-      "timestamp": 1764710100,
-      "equity": 99884.32,
-      "change": 286.55,
-      "changePercent": 0.0029
-    },
-    {
-      "timestamp": 1764711000,
-      "equity": 99873.52,
-      "change": 275.75,
-      "changePercent": 0.0028
-    },
-    {
-      "timestamp": 1764711900,
-      "equity": 99949.02,
-      "change": 351.25,
-      "changePercent": 0.0035
-    },
-    {
-      "timestamp": 1764712800,
-      "equity": 99911.77,
-      "change": 314,
-      "changePercent": 0.0032
-    },
-    {
-      "timestamp": 1764713700,
-      "equity": 99903.52,
-      "change": 305.75,
-      "changePercent": 0.0031
-    },
-    {
-      "timestamp": 1764714600,
-      "equity": 99928.43,
-      "change": 330.66,
-      "changePercent": 0.0033
-    },
-    {
-      "timestamp": 1764715500,
-      "equity": 99925.76,
-      "change": 327.99,
-      "changePercent": 0.0033
-    },
-    {
-      "timestamp": 1764716400,
-      "equity": 99895.77,
-      "change": 298,
-      "changePercent": 0.003
-    },
-    {
-      "timestamp": 1764717300,
-      "equity": 99930.28,
-      "change": 332.51,
-      "changePercent": 0.0033
-    },
-    {
-      "timestamp": 1764718200,
-      "equity": 99989.97,
-      "change": 392.2,
-      "changePercent": 0.0039
-    },
-    {
-      "timestamp": 1764719100,
-      "equity": 99978.02,
-      "change": 380.25,
-      "changePercent": 0.0038
-    },
-    {
-      "timestamp": 1764720000,
-      "equity": 100019.57,
-      "change": 421.8,
-      "changePercent": 0.0042
-    },
-    {
-      "timestamp": 1764720900,
-      "equity": 100020.52,
-      "change": 422.75,
-      "changePercent": 0.0042
-    },
-    {
-      "timestamp": 1764721800,
-      "equity": 99922.93,
-      "change": 325.16,
-      "changePercent": 0.0033
-    },
-    {
-      "timestamp": 1764722700,
-      "equity": 99964.27,
-      "change": 366.5,
-      "changePercent": 0.0037
-    },
-    {
-      "timestamp": 1764723600,
-      "equity": 100018.77,
-      "change": 421,
-      "changePercent": 0.0042
-    },
-    {
-      "timestamp": 1764752400,
-      "equity": 100064.27,
-      "change": 45.5,
-      "changePercent": 0.0005
-    },
-    {
-      "timestamp": 1764753300,
-      "equity": 100064.27,
-      "change": 45.5,
-      "changePercent": 0.0005
-    },
-    {
-      "timestamp": 1764754200,
-      "equity": 100070.02,
-      "change": 51.25,
-      "changePercent": 0.0005
-    },
-    {
-      "timestamp": 1764755100,
-      "equity": 100041.02,
-      "change": 22.25,
-      "changePercent": 0.0002
-    },
-    {
-      "timestamp": 1764756000,
-      "equity": 100058.02,
-      "change": 39.25,
-      "changePercent": 0.0004
-    },
-    {
-      "timestamp": 1764756900,
-      "equity": 100116.02,
-      "change": 97.25,
-      "changePercent": 0.001
-    },
-    {
-      "timestamp": 1764757800,
-      "equity": 100066.52,
-      "change": 47.75,
-      "changePercent": 0.0005
-    },
-    {
-      "timestamp": 1764758700,
-      "equity": 100013.52,
-      "change": -5.25,
-      "changePercent": -0.0001
-    },
-    {
-      "timestamp": 1764759600,
-      "equity": 100035.77,
-      "change": 17,
-      "changePercent": 0.0002
-    },
-    {
-      "timestamp": 1764760500,
-      "equity": 100017.02,
-      "change": -1.75,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764761400,
-      "equity": 100115.02,
-      "change": 96.25,
-      "changePercent": 0.001
-    },
-    {
-      "timestamp": 1764762300,
-      "equity": 100052.52,
-      "change": 33.75,
-      "changePercent": 0.0003
-    },
-    {
-      "timestamp": 1764763200,
-      "equity": 100109.02,
-      "change": 90.25,
-      "changePercent": 0.0009
-    },
-    {
-      "timestamp": 1764764100,
-      "equity": 100071.02,
-      "change": 52.25,
-      "changePercent": 0.0005
-    },
-    {
-      "timestamp": 1764765000,
-      "equity": 100073.77,
-      "change": 55,
-      "changePercent": 0.0005
-    },
-    {
-      "timestamp": 1764765900,
-      "equity": 100034.02,
-      "change": 15.25,
-      "changePercent": 0.0002
-    },
-    {
-      "timestamp": 1764766800,
-      "equity": 100047.77,
-      "change": 29,
-      "changePercent": 0.0003
-    },
-    {
-      "timestamp": 1764767700,
-      "equity": 100014.02,
-      "change": -4.75,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1764768600,
-      "equity": 99951.02,
-      "change": -67.75,
-      "changePercent": -0.0007
-    },
-    {
-      "timestamp": 1764769500,
-      "equity": 99908.02,
-      "change": -110.75,
-      "changePercent": -0.0011
-    },
-    {
-      "timestamp": 1764770400,
-      "equity": 99911.52,
-      "change": -107.25,
-      "changePercent": -0.0011
-    },
-    {
-      "timestamp": 1764771300,
-      "equity": 99522.02,
-      "change": -496.75,
-      "changePercent": -0.005
-    },
-    {
-      "timestamp": 1764772200,
-      "equity": 99903.27,
-      "change": -115.5,
-      "changePercent": -0.0012
-    },
-    {
-      "timestamp": 1764773100,
-      "equity": 99907.77,
-      "change": -111,
-      "changePercent": -0.0011
-    },
-    {
-      "timestamp": 1764774000,
-      "equity": 100010.77,
-      "change": -8,
-      "changePercent": -0.0001
-    },
-    {
-      "timestamp": 1764774900,
-      "equity": 100260.77,
-      "change": 242,
-      "changePercent": 0.0024
-    },
-    {
-      "timestamp": 1764775800,
-      "equity": 100329.56,
-      "change": 310.79,
-      "changePercent": 0.0031
-    },
-    {
-      "timestamp": 1764776700,
-      "equity": 100588.02,
-      "change": 569.25,
-      "changePercent": 0.0057
-    },
-    {
-      "timestamp": 1764777600,
-      "equity": 100549.02,
-      "change": 530.25,
-      "changePercent": 0.0053
-    },
-    {
-      "timestamp": 1764778500,
-      "equity": 100528.65,
-      "change": 509.88,
-      "changePercent": 0.0051
-    },
-    {
-      "timestamp": 1764779400,
-      "equity": 100583.77,
-      "change": 565,
-      "changePercent": 0.0056
-    },
-    {
-      "timestamp": 1764780300,
-      "equity": 100722.33,
-      "change": 703.56,
-      "changePercent": 0.007
-    },
-    {
-      "timestamp": 1764781200,
-      "equity": 100759.02,
-      "change": 740.25,
-      "changePercent": 0.0074
-    },
-    {
-      "timestamp": 1764782100,
-      "equity": 100805.6,
-      "change": 786.83,
-      "changePercent": 0.0079
-    },
-    {
-      "timestamp": 1764783000,
-      "equity": 100809.02,
-      "change": 790.25,
-      "changePercent": 0.0079
-    },
-    {
-      "timestamp": 1764783900,
-      "equity": 100759.89,
-      "change": 741.12,
-      "changePercent": 0.0074
-    },
-    {
-      "timestamp": 1764784800,
-      "equity": 100825.93,
-      "change": 807.16,
-      "changePercent": 0.0081
-    },
-    {
-      "timestamp": 1764785700,
-      "equity": 100881.77,
-      "change": 863,
-      "changePercent": 0.0086
-    },
-    {
-      "timestamp": 1764786600,
-      "equity": 100922.97,
-      "change": 904.2,
-      "changePercent": 0.009
-    },
-    {
-      "timestamp": 1764787500,
-      "equity": 101014.69,
-      "change": 995.92,
-      "changePercent": 0.01
-    },
-    {
-      "timestamp": 1764788400,
-      "equity": 100929.02,
-      "change": 910.25,
-      "changePercent": 0.0091
-    },
-    {
-      "timestamp": 1764789300,
-      "equity": 100874.52,
-      "change": 855.75,
-      "changePercent": 0.0086
-    },
-    {
-      "timestamp": 1764790200,
-      "equity": 100760.77,
-      "change": 742,
-      "changePercent": 0.0074
-    },
-    {
-      "timestamp": 1764791100,
-      "equity": 100783.02,
-      "change": 764.25,
-      "changePercent": 0.0076
-    },
-    {
-      "timestamp": 1764792000,
-      "equity": 100847.76,
-      "change": 828.99,
-      "changePercent": 0.0083
-    },
-    {
-      "timestamp": 1764792900,
-      "equity": 100823.77,
-      "change": 805,
-      "changePercent": 0.008
-    },
-    {
-      "timestamp": 1764793800,
-      "equity": 100893.65,
-      "change": 874.88,
-      "changePercent": 0.0087
-    },
-    {
-      "timestamp": 1764794700,
-      "equity": 100822.02,
-      "change": 803.25,
-      "changePercent": 0.008
-    },
-    {
-      "timestamp": 1764795600,
-      "equity": 100615.27,
-      "change": 596.5,
-      "changePercent": 0.006
-    },
-    {
-      "timestamp": 1764796500,
-      "equity": 100625.77,
-      "change": 607,
-      "changePercent": 0.0061
-    },
-    {
-      "timestamp": 1764797400,
-      "equity": 100521.52,
-      "change": 502.75,
-      "changePercent": 0.005
-    },
-    {
-      "timestamp": 1764798300,
-      "equity": 100526.24,
-      "change": 507.47,
-      "changePercent": 0.0051
-    },
-    {
-      "timestamp": 1764799200,
-      "equity": 100540.89,
-      "change": 522.12,
-      "changePercent": 0.0052
-    },
-    {
-      "timestamp": 1764800100,
-      "equity": 100622.52,
-      "change": 603.75,
-      "changePercent": 0.006
-    },
-    {
-      "timestamp": 1764801000,
-      "equity": 100687.32,
-      "change": 668.55,
-      "changePercent": 0.0067
-    },
-    {
-      "timestamp": 1764801900,
-      "equity": 100724.82,
-      "change": 706.05,
-      "changePercent": 0.0071
-    },
-    {
-      "timestamp": 1764802800,
-      "equity": 100716.05,
-      "change": 697.28,
-      "changePercent": 0.007
-    },
-    {
-      "timestamp": 1764803700,
-      "equity": 100780.02,
-      "change": 761.25,
-      "changePercent": 0.0076
-    },
-    {
-      "timestamp": 1764804600,
-      "equity": 100812.55,
-      "change": 793.78,
-      "changePercent": 0.0079
-    },
-    {
-      "timestamp": 1764805500,
-      "equity": 100827.52,
-      "change": 808.75,
-      "changePercent": 0.0081
-    },
-    {
-      "timestamp": 1764806400,
-      "equity": 100793,
-      "change": 774.23,
-      "changePercent": 0.0077
-    },
-    {
-      "timestamp": 1764807300,
-      "equity": 100829.02,
-      "change": 810.25,
-      "changePercent": 0.0081
-    },
-    {
-      "timestamp": 1764808200,
-      "equity": 100814.01,
-      "change": 795.24,
-      "changePercent": 0.008
-    },
-    {
-      "timestamp": 1764809100,
-      "equity": 100782.27,
-      "change": 763.5,
-      "changePercent": 0.0076
-    },
-    {
-      "timestamp": 1764810000,
-      "equity": 100692.52,
-      "change": 673.75,
-      "changePercent": 0.0067
-    },
-    {
-      "timestamp": 1764838800,
-      "equity": 100636.77,
-      "change": -55.75,
-      "changePercent": -0.0006
-    },
-    {
-      "timestamp": 1764839700,
-      "equity": 100636.77,
-      "change": -55.75,
-      "changePercent": -0.0006
-    },
-    {
-      "timestamp": 1764840600,
-      "equity": 100567.02,
-      "change": -125.5,
-      "changePercent": -0.0012
-    },
-    {
-      "timestamp": 1764841500,
-      "equity": 100725.02,
-      "change": 32.5,
-      "changePercent": 0.0003
-    },
-    {
-      "timestamp": 1764842400,
-      "equity": 100748.77,
-      "change": 56.25,
-      "changePercent": 0.0006
-    },
-    {
-      "timestamp": 1764843300,
-      "equity": 100753.02,
-      "change": 60.5,
-      "changePercent": 0.0006
-    },
-    {
-      "timestamp": 1764844200,
-      "equity": 100750.02,
-      "change": 57.5,
-      "changePercent": 0.0006
-    },
-    {
-      "timestamp": 1764845100,
-      "equity": 100724.02,
-      "change": 31.5,
-      "changePercent": 0.0003
-    },
-    {
-      "timestamp": 1764846000,
-      "equity": 100779.27,
-      "change": 86.75,
-      "changePercent": 0.0009
-    },
-    {
-      "timestamp": 1764846900,
-      "equity": 100674.02,
-      "change": -18.5,
-      "changePercent": -0.0002
-    },
-    {
-      "timestamp": 1764847800,
-      "equity": 100718.02,
-      "change": 25.5,
-      "changePercent": 0.0003
-    },
-    {
-      "timestamp": 1764848700,
-      "equity": 100875.77,
-      "change": 183.25,
-      "changePercent": 0.0018
-    },
-    {
-      "timestamp": 1764849600,
-      "equity": 100904.52,
-      "change": 212,
-      "changePercent": 0.0021
-    },
-    {
-      "timestamp": 1764850500,
-      "equity": 100796.02,
-      "change": 103.5,
-      "changePercent": 0.001
-    },
-    {
-      "timestamp": 1764851400,
-      "equity": 100936.02,
-      "change": 243.5,
-      "changePercent": 0.0024
-    },
-    {
-      "timestamp": 1764852300,
-      "equity": 100962.02,
-      "change": 269.5,
-      "changePercent": 0.0027
-    },
-    {
-      "timestamp": 1764853200,
-      "equity": 100965.77,
-      "change": 273.25,
-      "changePercent": 0.0027
-    },
-    {
-      "timestamp": 1764854100,
-      "equity": 100955.77,
-      "change": 263.25,
-      "changePercent": 0.0026
-    },
-    {
-      "timestamp": 1764855000,
-      "equity": 100950.77,
-      "change": 258.25,
-      "changePercent": 0.0026
-    },
-    {
-      "timestamp": 1764855900,
-      "equity": 100902.01,
-      "change": 209.49,
-      "changePercent": 0.0021
-    },
-    {
-      "timestamp": 1764856800,
-      "equity": 100870.77,
-      "change": 178.25,
-      "changePercent": 0.0018
-    },
-    {
-      "timestamp": 1764857700,
-      "equity": 100827.02,
-      "change": 134.5,
-      "changePercent": 0.0013
-    },
-    {
-      "timestamp": 1764858600,
-      "equity": 101090.02,
-      "change": 397.5,
-      "changePercent": 0.0039
-    },
-    {
-      "timestamp": 1764859500,
-      "equity": 99641.77,
-      "change": -1050.75,
-      "changePercent": -0.0104
-    },
-    {
-      "timestamp": 1764860400,
-      "equity": 99694.02,
-      "change": -998.5,
-      "changePercent": -0.0099
-    },
-    {
-      "timestamp": 1764861300,
-      "equity": 99948.26,
-      "change": -744.26,
-      "changePercent": -0.0074
-    },
-    {
-      "timestamp": 1764862200,
-      "equity": 99789.9,
-      "change": -902.62,
-      "changePercent": -0.009
-    },
-    {
-      "timestamp": 1764863100,
-      "equity": 99832.42,
-      "change": -860.1,
-      "changePercent": -0.0085
-    },
-    {
-      "timestamp": 1764864000,
-      "equity": 99679.77,
-      "change": -1012.75,
-      "changePercent": -0.0101
-    },
-    {
-      "timestamp": 1764864900,
-      "equity": 99546.27,
-      "change": -1146.25,
-      "changePercent": -0.0114
-    },
-    {
-      "timestamp": 1764865800,
-      "equity": 99575.02,
-      "change": -1117.5,
-      "changePercent": -0.0111
-    },
-    {
-      "timestamp": 1764866700,
-      "equity": 99580.02,
-      "change": -1112.5,
-      "changePercent": -0.011
-    },
-    {
-      "timestamp": 1764867600,
-      "equity": 99709.74,
-      "change": -982.78,
-      "changePercent": -0.0098
-    },
-    {
-      "timestamp": 1764868500,
-      "equity": 99723.7,
-      "change": -968.82,
-      "changePercent": -0.0096
-    },
-    {
-      "timestamp": 1764869400,
-      "equity": 99617.65,
-      "change": -1074.87,
-      "changePercent": -0.0107
-    },
-    {
-      "timestamp": 1764870300,
-      "equity": 99624.04,
-      "change": -1068.48,
-      "changePercent": -0.0106
-    },
-    {
-      "timestamp": 1764871200,
-      "equity": 99893.99,
-      "change": -798.53,
-      "changePercent": -0.0079
-    },
-    {
-      "timestamp": 1764872100,
-      "equity": 99745.27,
-      "change": -947.25,
-      "changePercent": -0.0094
-    },
-    {
-      "timestamp": 1764873000,
-      "equity": 99726.4,
-      "change": -966.12,
-      "changePercent": -0.0096
-    },
-    {
-      "timestamp": 1764873900,
-      "equity": 99741.77,
-      "change": -950.75,
-      "changePercent": -0.0094
-    },
-    {
-      "timestamp": 1764874800,
-      "equity": 99699.52,
-      "change": -993,
-      "changePercent": -0.0099
-    },
-    {
-      "timestamp": 1764875700,
-      "equity": 99724.52,
-      "change": -968,
-      "changePercent": -0.0096
-    },
-    {
-      "timestamp": 1764876600,
-      "equity": 99566.72,
-      "change": -1125.8,
-      "changePercent": -0.0112
-    },
-    {
-      "timestamp": 1764877500,
-      "equity": 99749.77,
-      "change": -942.75,
-      "changePercent": -0.0094
-    },
-    {
-      "timestamp": 1764878400,
-      "equity": 99783.52,
-      "change": -909,
-      "changePercent": -0.009
-    },
-    {
-      "timestamp": 1764879300,
-      "equity": 99823.53,
-      "change": -868.99,
-      "changePercent": -0.0086
-    },
-    {
-      "timestamp": 1764880200,
-      "equity": 99804.4,
-      "change": -888.12,
-      "changePercent": -0.0088
-    },
-    {
-      "timestamp": 1764881100,
-      "equity": 99758.77,
-      "change": -933.75,
-      "changePercent": -0.0093
-    },
-    {
-      "timestamp": 1764882000,
-      "equity": 99922.77,
-      "change": -769.75,
-      "changePercent": -0.0076
-    },
-    {
-      "timestamp": 1764882900,
-      "equity": 99906.52,
-      "change": -786,
-      "changePercent": -0.0078
-    },
-    {
-      "timestamp": 1764883800,
-      "equity": 99915.13,
-      "change": -777.39,
-      "changePercent": -0.0077
-    },
-    {
-      "timestamp": 1764884700,
-      "equity": 99914.77,
-      "change": -777.75,
-      "changePercent": -0.0077
-    },
-    {
-      "timestamp": 1764885600,
-      "equity": 99918.52,
-      "change": -774,
-      "changePercent": -0.0077
-    },
-    {
-      "timestamp": 1764886500,
-      "equity": 99918.52,
-      "change": -774,
-      "changePercent": -0.0077
-    },
-    {
-      "timestamp": 1764887400,
-      "equity": 99898.77,
-      "change": -793.75,
-      "changePercent": -0.0079
-    },
-    {
-      "timestamp": 1764888300,
-      "equity": 99906.95,
-      "change": -785.57,
-      "changePercent": -0.0078
-    },
-    {
-      "timestamp": 1764889200,
-      "equity": 99893.52,
-      "change": -799,
-      "changePercent": -0.0079
-    },
-    {
-      "timestamp": 1764890100,
-      "equity": 99935.89,
-      "change": -756.63,
-      "changePercent": -0.0075
-    },
-    {
-      "timestamp": 1764891000,
-      "equity": 99951.8,
-      "change": -740.72,
-      "changePercent": -0.0074
-    },
-    {
-      "timestamp": 1764891900,
-      "equity": 99909.52,
-      "change": -783,
-      "changePercent": -0.0078
-    },
-    {
-      "timestamp": 1764892800,
-      "equity": 99900.71,
-      "change": -791.81,
-      "changePercent": -0.0079
-    },
-    {
-      "timestamp": 1764893700,
-      "equity": 99854.16,
-      "change": -838.36,
-      "changePercent": -0.0083
-    },
-    {
-      "timestamp": 1764894600,
-      "equity": 99870.77,
-      "change": -821.75,
-      "changePercent": -0.0082
-    },
-    {
-      "timestamp": 1764895500,
-      "equity": 99883.62,
-      "change": -808.9,
-      "changePercent": -0.008
-    },
-    {
-      "timestamp": 1764896400,
-      "equity": 99854.02,
-      "change": -838.5,
-      "changePercent": -0.0083
-    },
-    {
-      "timestamp": 1764925200,
-      "equity": 100317.77,
-      "change": 463.75,
-      "changePercent": 0.0046
-    },
-    {
-      "timestamp": 1764926100,
-      "equity": 100317.77,
-      "change": 463.75,
-      "changePercent": 0.0046
-    },
-    {
-      "timestamp": 1764927000,
-      "equity": 100302.52,
-      "change": 448.5,
-      "changePercent": 0.0045
-    },
-    {
-      "timestamp": 1764927900,
-      "equity": 100204.27,
-      "change": 350.25,
-      "changePercent": 0.0035
-    },
-    {
-      "timestamp": 1764928800,
-      "equity": 100250.77,
-      "change": 396.75,
-      "changePercent": 0.004
-    },
-    {
-      "timestamp": 1764929700,
-      "equity": 100290.77,
-      "change": 436.75,
-      "changePercent": 0.0044
-    },
-    {
-      "timestamp": 1764930600,
-      "equity": 100207.52,
-      "change": 353.5,
-      "changePercent": 0.0035
-    },
-    {
-      "timestamp": 1764931500,
-      "equity": 100251.52,
-      "change": 397.5,
-      "changePercent": 0.004
-    },
-    {
-      "timestamp": 1764932400,
-      "equity": 100185.77,
-      "change": 331.75,
-      "changePercent": 0.0033
-    },
-    {
-      "timestamp": 1764933300,
-      "equity": 100198.52,
-      "change": 344.5,
-      "changePercent": 0.0035
-    },
-    {
-      "timestamp": 1764934200,
-      "equity": 100175.27,
-      "change": 321.25,
-      "changePercent": 0.0032
-    },
-    {
-      "timestamp": 1764935100,
-      "equity": 100220.02,
-      "change": 366,
-      "changePercent": 0.0037
-    },
-    {
-      "timestamp": 1764936000,
-      "equity": 100214.02,
-      "change": 360,
-      "changePercent": 0.0036
-    },
-    {
-      "timestamp": 1764936900,
-      "equity": 100170.52,
-      "change": 316.5,
-      "changePercent": 0.0032
-    },
-    {
-      "timestamp": 1764937800,
-      "equity": 100170.52,
-      "change": 316.5,
-      "changePercent": 0.0032
-    },
-    {
-      "timestamp": 1764938700,
-      "equity": 100174.52,
-      "change": 320.5,
-      "changePercent": 0.0032
-    },
-    {
-      "timestamp": 1764939600,
-      "equity": 100187.77,
-      "change": 333.75,
-      "changePercent": 0.0033
-    },
-    {
-      "timestamp": 1764940500,
-      "equity": 100143.52,
-      "change": 289.5,
-      "changePercent": 0.0029
-    },
-    {
-      "timestamp": 1764941400,
-      "equity": 100140.27,
-      "change": 286.25,
-      "changePercent": 0.0029
-    },
-    {
-      "timestamp": 1764942300,
-      "equity": 99982.76,
-      "change": 128.74,
-      "changePercent": 0.0013
-    },
-    {
-      "timestamp": 1764943200,
-      "equity": 100079.02,
-      "change": 225,
-      "changePercent": 0.0023
-    },
-    {
-      "timestamp": 1764944100,
-      "equity": 100096.27,
-      "change": 242.25,
-      "changePercent": 0.0024
-    },
-    {
-      "timestamp": 1764945000,
-      "equity": 100249.52,
-      "change": 395.5,
-      "changePercent": 0.004
-    },
-    {
-      "timestamp": 1764945900,
-      "equity": 100566.15,
-      "change": 712.13,
-      "changePercent": 0.0071
-    },
-    {
-      "timestamp": 1764946800,
-      "equity": 100791.02,
-      "change": 937,
-      "changePercent": 0.0094
-    },
-    {
-      "timestamp": 1764947700,
-      "equity": 100711.28,
-      "change": 857.26,
-      "changePercent": 0.0086
-    },
-    {
-      "timestamp": 1764948600,
-      "equity": 100723.15,
-      "change": 869.13,
-      "changePercent": 0.0087
-    },
-    {
-      "timestamp": 1764949500,
-      "equity": 100641.4,
-      "change": 787.38,
-      "changePercent": 0.0079
-    },
-    {
-      "timestamp": 1764950400,
-      "equity": 100289.65,
-      "change": 435.63,
-      "changePercent": 0.0044
-    },
-    {
-      "timestamp": 1764951300,
-      "equity": 100218.77,
-      "change": 364.75,
-      "changePercent": 0.0037
-    },
-    {
-      "timestamp": 1764952200,
-      "equity": 100318.95,
-      "change": 464.93,
-      "changePercent": 0.0047
-    },
-    {
-      "timestamp": 1764953100,
-      "equity": 100432.77,
-      "change": 578.75,
-      "changePercent": 0.0058
-    },
-    {
-      "timestamp": 1764954000,
-      "equity": 100612.6,
-      "change": 758.58,
-      "changePercent": 0.0076
-    },
-    {
-      "timestamp": 1764954900,
-      "equity": 100383.02,
-      "change": 529,
-      "changePercent": 0.0053
-    },
-    {
-      "timestamp": 1764955800,
-      "equity": 100439.65,
-      "change": 585.63,
-      "changePercent": 0.0059
-    },
-    {
-      "timestamp": 1764956700,
-      "equity": 100433.53,
-      "change": 579.51,
-      "changePercent": 0.0058
-    },
-    {
-      "timestamp": 1764957600,
-      "equity": 100441.9,
-      "change": 587.88,
-      "changePercent": 0.0059
-    },
-    {
-      "timestamp": 1764958500,
-      "equity": 100414.52,
-      "change": 560.5,
-      "changePercent": 0.0056
-    },
-    {
-      "timestamp": 1764959400,
-      "equity": 100486.02,
-      "change": 632,
-      "changePercent": 0.0063
-    },
-    {
-      "timestamp": 1764960300,
-      "equity": 100352.27,
-      "change": 498.25,
-      "changePercent": 0.005
-    },
-    {
-      "timestamp": 1764961200,
-      "equity": 100289.52,
-      "change": 435.5,
-      "changePercent": 0.0044
-    },
-    {
-      "timestamp": 1764962100,
-      "equity": 100447.52,
-      "change": 593.5,
-      "changePercent": 0.0059
-    },
-    {
-      "timestamp": 1764963000,
-      "equity": 100353.56,
-      "change": 499.54,
-      "changePercent": 0.005
-    },
-    {
-      "timestamp": 1764963900,
-      "equity": 100317.61,
-      "change": 463.59,
-      "changePercent": 0.0046
-    },
-    {
-      "timestamp": 1764964800,
-      "equity": 100374.26,
-      "change": 520.24,
-      "changePercent": 0.0052
-    },
-    {
-      "timestamp": 1764965700,
-      "equity": 100326.78,
-      "change": 472.76,
-      "changePercent": 0.0047
-    },
-    {
-      "timestamp": 1764966600,
-      "equity": 100320.13,
-      "change": 466.11,
-      "changePercent": 0.0047
-    },
-    {
-      "timestamp": 1764967500,
-      "equity": 100409.77,
-      "change": 555.75,
-      "changePercent": 0.0056
-    },
-    {
-      "timestamp": 1764968400,
-      "equity": 100518.02,
-      "change": 664,
-      "changePercent": 0.0066
-    },
-    {
-      "timestamp": 1764969300,
-      "equity": 100587.27,
-      "change": 733.25,
-      "changePercent": 0.0073
-    },
-    {
-      "timestamp": 1764970200,
-      "equity": 100587.52,
-      "change": 733.5,
-      "changePercent": 0.0073
-    },
-    {
-      "timestamp": 1764971100,
-      "equity": 100456.27,
-      "change": 602.25,
-      "changePercent": 0.006
-    },
-    {
-      "timestamp": 1764972000,
-      "equity": 100325.27,
-      "change": 471.25,
-      "changePercent": 0.0047
-    },
-    {
-      "timestamp": 1764972900,
-      "equity": 100289.77,
-      "change": 435.75,
-      "changePercent": 0.0044
-    },
-    {
-      "timestamp": 1764973800,
-      "equity": 100265.33,
-      "change": 411.31,
-      "changePercent": 0.0041
-    },
-    {
-      "timestamp": 1764974700,
-      "equity": 100306.09,
-      "change": 452.07,
-      "changePercent": 0.0045
-    },
-    {
-      "timestamp": 1764975600,
-      "equity": 100297.77,
-      "change": 443.75,
-      "changePercent": 0.0044
-    },
-    {
-      "timestamp": 1764976500,
-      "equity": 100325.56,
-      "change": 471.54,
-      "changePercent": 0.0047
-    },
-    {
-      "timestamp": 1764977400,
-      "equity": 100330.02,
-      "change": 476,
-      "changePercent": 0.0048
-    },
-    {
-      "timestamp": 1764978300,
-      "equity": 100309.77,
-      "change": 455.75,
-      "changePercent": 0.0046
-    },
-    {
-      "timestamp": 1764979200,
-      "equity": 100371.52,
-      "change": 517.5,
-      "changePercent": 0.0052
-    },
-    {
-      "timestamp": 1764980100,
-      "equity": 100370.02,
-      "change": 516,
-      "changePercent": 0.0052
-    },
-    {
-      "timestamp": 1764981000,
-      "equity": 100379.3,
-      "change": 525.28,
-      "changePercent": 0.0053
-    },
-    {
-      "timestamp": 1764981900,
-      "equity": 100375.52,
-      "change": 521.5,
-      "changePercent": 0.0052
-    },
-    {
-      "timestamp": 1764982800,
-      "equity": 100367.02,
-      "change": 513,
-      "changePercent": 0.0051
-    },
-    {
-      "timestamp": 1765184400,
-      "equity": 100671.52,
-      "change": 304.5,
-      "changePercent": 0.003
-    },
-    {
-      "timestamp": 1765185300,
-      "equity": 100671.52,
-      "change": 304.5,
-      "changePercent": 0.003
-    },
-    {
-      "timestamp": 1765186200,
-      "equity": 100739.77,
-      "change": 372.75,
-      "changePercent": 0.0037
-    },
-    {
-      "timestamp": 1765187100,
-      "equity": 100716.27,
-      "change": 349.25,
-      "changePercent": 0.0035
-    },
-    {
-      "timestamp": 1765188000,
-      "equity": 100630.52,
-      "change": 263.5,
-      "changePercent": 0.0026
-    },
-    {
-      "timestamp": 1765188900,
-      "equity": 100626.27,
-      "change": 259.25,
-      "changePercent": 0.0026
-    },
-    {
-      "timestamp": 1765189800,
-      "equity": 100626.77,
-      "change": 259.75,
-      "changePercent": 0.0026
-    },
-    {
-      "timestamp": 1765190700,
-      "equity": 100588.02,
-      "change": 221,
-      "changePercent": 0.0022
-    },
-    {
-      "timestamp": 1765191600,
-      "equity": 100474.52,
-      "change": 107.5,
-      "changePercent": 0.0011
-    },
-    {
-      "timestamp": 1765192500,
-      "equity": 100481.52,
-      "change": 114.5,
-      "changePercent": 0.0011
-    },
-    {
-      "timestamp": 1765193400,
-      "equity": 100166.02,
-      "change": -201,
-      "changePercent": -0.002
-    },
-    {
-      "timestamp": 1765194300,
-      "equity": 100116.02,
-      "change": -251,
-      "changePercent": -0.0025
-    },
-    {
-      "timestamp": 1765195200,
-      "equity": 100145.52,
-      "change": -221.5,
-      "changePercent": -0.0022
-    },
-    {
-      "timestamp": 1765196100,
-      "equity": 100215.27,
-      "change": -151.75,
-      "changePercent": -0.0015
-    },
-    {
-      "timestamp": 1765197000,
-      "equity": 100323.77,
-      "change": -43.25,
-      "changePercent": -0.0004
-    },
-    {
-      "timestamp": 1765197900,
-      "equity": 100355.77,
-      "change": -11.25,
-      "changePercent": -0.0001
-    },
-    {
-      "timestamp": 1765198800,
-      "equity": 100384.77,
-      "change": 17.75,
-      "changePercent": 0.0002
-    },
-    {
-      "timestamp": 1765199700,
-      "equity": 100371.02,
-      "change": 4,
-      "changePercent": 0
-    },
-    {
-      "timestamp": 1765200600,
-      "equity": 100385.77,
-      "change": 18.75,
-      "changePercent": 0.0002
-    },
-    {
-      "timestamp": 1765201500,
-      "equity": 100394.36,
-      "change": 27.34,
-      "changePercent": 0.0003
-    },
-    {
-      "timestamp": 1765202400,
-      "equity": 100421.53,
-      "change": 54.51,
-      "changePercent": 0.0005
-    },
-    {
-      "timestamp": 1765203300,
-      "equity": 100444.49,
-      "change": 77.47,
-      "changePercent": 0.0008
-    },
-    {
-      "timestamp": 1765204200,
-      "equity": 100239.52,
-      "change": -127.5,
-      "changePercent": -0.0013
-    },
-    {
-      "timestamp": 1765205100,
-      "equity": 99779.77,
-      "change": -587.25,
-      "changePercent": -0.0059
-    },
-    {
-      "timestamp": 1765206000,
-      "equity": 99806.5,
-      "change": -560.52,
-      "changePercent": -0.0056
-    },
-    {
-      "timestamp": 1765206900,
-      "equity": 99895.77,
-      "change": -471.25,
-      "changePercent": -0.0047
-    },
-    {
-      "timestamp": 1765207800,
-      "equity": 99599.02,
-      "change": -768,
-      "changePercent": -0.0077
-    },
-    {
-      "timestamp": 1765208700,
-      "equity": 99327.77,
-      "change": -1039.25,
-      "changePercent": -0.0104
-    },
-    {
-      "timestamp": 1765209600,
-      "equity": 99352.15,
-      "change": -1014.87,
-      "changePercent": -0.0101
-    },
-    {
-      "timestamp": 1765210500,
-      "equity": 99270.52,
-      "change": -1096.5,
-      "changePercent": -0.0109
-    },
-    {
-      "timestamp": 1765211400,
-      "equity": 99179.4,
-      "change": -1187.62,
-      "changePercent": -0.0118
-    },
-    {
-      "timestamp": 1765212300,
-      "equity": 99188.28,
-      "change": -1178.74,
-      "changePercent": -0.0117
-    },
-    {
-      "timestamp": 1765213200,
-      "equity": 99049.4,
-      "change": -1317.62,
-      "changePercent": -0.0131
-    },
-    {
-      "timestamp": 1765214100,
-      "equity": 98819.27,
-      "change": -1547.75,
-      "changePercent": -0.0154
-    },
-    {
-      "timestamp": 1765215000,
-      "equity": 98592.27,
-      "change": -1774.75,
-      "changePercent": -0.0177
-    },
-    {
-      "timestamp": 1765215900,
-      "equity": 98630.93,
-      "change": -1736.09,
-      "changePercent": -0.0173
-    },
-    {
-      "timestamp": 1765216800,
-      "equity": 98641.41,
-      "change": -1725.61,
-      "changePercent": -0.0172
-    },
-    {
-      "timestamp": 1765217700,
-      "equity": 98440.27,
-      "change": -1926.75,
-      "changePercent": -0.0192
-    },
-    {
-      "timestamp": 1765218600,
-      "equity": 98542.77,
-      "change": -1824.25,
-      "changePercent": -0.0182
-    },
-    {
-      "timestamp": 1765219500,
-      "equity": 98611.62,
-      "change": -1755.4,
-      "changePercent": -0.0175
-    },
-    {
-      "timestamp": 1765220400,
-      "equity": 98681.77,
-      "change": -1685.25,
-      "changePercent": -0.0168
-    },
-    {
-      "timestamp": 1765221300,
-      "equity": 98543.52,
-      "change": -1823.5,
-      "changePercent": -0.0182
-    },
-    {
-      "timestamp": 1765222200,
-      "equity": 98645.02,
-      "change": -1722,
-      "changePercent": -0.0172
-    },
-    {
-      "timestamp": 1765223100,
-      "equity": 98595.02,
-      "change": -1772,
-      "changePercent": -0.0177
-    },
-    {
-      "timestamp": 1765224000,
-      "equity": 98591.27,
-      "change": -1775.75,
-      "changePercent": -0.0177
-    },
-    {
-      "timestamp": 1765224900,
-      "equity": 98603.02,
-      "change": -1764,
-      "changePercent": -0.0176
-    },
-    {
-      "timestamp": 1765225800,
-      "equity": 98619.4,
-      "change": -1747.62,
-      "changePercent": -0.0174
-    },
-    {
-      "timestamp": 1765226700,
-      "equity": 98581.9,
-      "change": -1785.12,
-      "changePercent": -0.0178
-    },
-    {
-      "timestamp": 1765227600,
-      "equity": 98901.02,
-      "change": -1466,
-      "changePercent": -0.0146
-    },
-    {
-      "timestamp": 1765228500,
-      "equity": 98941.68,
-      "change": -1425.34,
-      "changePercent": -0.0142
-    },
-    {
-      "timestamp": 1765229400,
-      "equity": 99024.27,
-      "change": -1342.75,
-      "changePercent": -0.0134
-    },
-    {
-      "timestamp": 1765230300,
-      "equity": 98918.27,
-      "change": -1448.75,
-      "changePercent": -0.0144
-    },
-    {
-      "timestamp": 1765231200,
-      "equity": 98911.52,
-      "change": -1455.5,
-      "changePercent": -0.0145
-    },
-    {
-      "timestamp": 1765232100,
-      "equity": 98988.77,
-      "change": -1378.25,
-      "changePercent": -0.0137
-    },
-    {
-      "timestamp": 1765233000,
-      "equity": 98932.27,
-      "change": -1434.75,
-      "changePercent": -0.0143
-    },
-    {
-      "timestamp": 1765233900,
-      "equity": 98937.77,
-      "change": -1429.25,
-      "changePercent": -0.0142
-    },
-    {
-      "timestamp": 1765234800,
-      "equity": 98908.54,
-      "change": -1458.48,
-      "changePercent": -0.0145
-    },
-    {
-      "timestamp": 1765235700,
-      "equity": 98934.52,
-      "change": -1432.5,
-      "changePercent": -0.0143
-    },
-    {
-      "timestamp": 1765236600,
-      "equity": 98949.52,
-      "change": -1417.5,
-      "changePercent": -0.0141
-    },
-    {
-      "timestamp": 1765237500,
-      "equity": 98963.77,
-      "change": -1403.25,
-      "changePercent": -0.014
-    },
-    {
-      "timestamp": 1765238400,
-      "equity": 98996.52,
-      "change": -1370.5,
-      "changePercent": -0.0137
-    },
-    {
-      "timestamp": 1765239300,
-      "equity": 98971.39,
-      "change": -1395.63,
-      "changePercent": -0.0139
-    },
-    {
-      "timestamp": 1765240200,
-      "equity": 98980.77,
-      "change": -1386.25,
-      "changePercent": -0.0138
-    },
-    {
-      "timestamp": 1765241100,
-      "equity": 98995.77,
-      "change": -1371.25,
-      "changePercent": -0.0137
-    },
-    {
-      "timestamp": 1765242000,
-      "equity": 98995.02,
-      "change": -1372,
-      "changePercent": -0.0137
-    },
-    {
-      "timestamp": 1765270800,
-      "equity": 98949.27,
-      "change": -45.75,
-      "changePercent": -0.0005
-    },
-    {
-      "timestamp": 1765271700,
-      "equity": 98949.27,
-      "change": -45.75,
-      "changePercent": -0.0005
-    },
-    {
-      "timestamp": 1765272600,
-      "equity": 98773.52,
-      "change": -221.5,
-      "changePercent": -0.0022
-    },
-    {
-      "timestamp": 1765273500,
-      "equity": 98725.27,
-      "change": -269.75,
-      "changePercent": -0.0027
-    },
-    {
-      "timestamp": 1765274400,
-      "equity": 98628.27,
-      "change": -366.75,
-      "changePercent": -0.0037
-    },
-    {
-      "timestamp": 1765275300,
-      "equity": 98743.27,
-      "change": -251.75,
-      "changePercent": -0.0025
-    },
-    {
-      "timestamp": 1765276200,
-      "equity": 98791.52,
-      "change": -203.5,
-      "changePercent": -0.0021
-    },
-    {
-      "timestamp": 1765277100,
-      "equity": 98782.27,
-      "change": -212.75,
-      "changePercent": -0.0021
-    },
-    {
-      "timestamp": 1765278000,
-      "equity": 98893.52,
-      "change": -101.5,
-      "changePercent": -0.001
-    },
-    {
-      "timestamp": 1765278900,
-      "equity": 98829.52,
-      "change": -165.5,
-      "changePercent": -0.0017
-    },
-    {
-      "timestamp": 1765279800,
-      "equity": 98849.52,
-      "change": -145.5,
-      "changePercent": -0.0015
-    },
-    {
-      "timestamp": 1765280700,
-      "equity": 98782.02,
-      "change": -213,
-      "changePercent": -0.0022
-    },
-    {
-      "timestamp": 1765281600,
-      "equity": 98763.27,
-      "change": -231.75,
-      "changePercent": -0.0023
-    },
-    {
-      "timestamp": 1765282500,
-      "equity": 98658.02,
-      "change": -337,
-      "changePercent": -0.0034
-    },
-    {
-      "timestamp": 1765283400,
-      "equity": 98652.77,
-      "change": -342.25,
-      "changePercent": -0.0035
-    },
-    {
-      "timestamp": 1765284300,
-      "equity": 98644.02,
-      "change": -351,
-      "changePercent": -0.0035
-    },
-    {
-      "timestamp": 1765285200,
-      "equity": 98639.77,
-      "change": -355.25,
-      "changePercent": -0.0036
-    },
-    {
-      "timestamp": 1765286100,
-      "equity": 98638.52,
-      "change": -356.5,
-      "changePercent": -0.0036
-    },
-    {
-      "timestamp": 1765287000,
-      "equity": 98642.02,
-      "change": -353,
-      "changePercent": -0.0036
-    },
-    {
-      "timestamp": 1765287900,
-      "equity": 98557.27,
-      "change": -437.75,
-      "changePercent": -0.0044
-    },
-    {
-      "timestamp": 1765288800,
-      "equity": 98633.02,
-      "change": -362,
-      "changePercent": -0.0037
-    },
-    {
-      "timestamp": 1765289700,
-      "equity": 98563.02,
-      "change": -432,
-      "changePercent": -0.0044
-    },
-    {
-      "timestamp": 1765290600,
-      "equity": 98663.77,
-      "change": -331.25,
-      "changePercent": -0.0033
-    },
-    {
-      "timestamp": 1765291500,
-      "equity": 98808.02,
-      "change": -187,
-      "changePercent": -0.0019
-    },
-    {
-      "timestamp": 1765292400,
-      "equity": 98728.4,
-      "change": -266.62,
-      "changePercent": -0.0027
-    },
-    {
-      "timestamp": 1765293300,
-      "equity": 98673.52,
-      "change": -321.5,
-      "changePercent": -0.0032
-    },
-    {
-      "timestamp": 1765294200,
-      "equity": 98850.52,
-      "change": -144.5,
-      "changePercent": -0.0015
-    },
-    {
-      "timestamp": 1765295100,
-      "equity": 98866.91,
-      "change": -128.11,
-      "changePercent": -0.0013
-    },
-    {
-      "timestamp": 1765296000,
-      "equity": 99008.9,
-      "change": 13.88,
+      "timestamp": 1765539900,
+      "equity": 100552.86,
+      "change": 7.96,
       "changePercent": 0.0001
     },
     {
-      "timestamp": 1765296900,
-      "equity": 98972.02,
-      "change": -23,
+      "timestamp": 1765540800,
+      "equity": 100560.44,
+      "change": 15.54,
+      "changePercent": 0.0002
+    },
+    {
+      "timestamp": 1765541700,
+      "equity": 100554.41,
+      "change": 9.51,
+      "changePercent": 0.0001
+    },
+    {
+      "timestamp": 1765542600,
+      "equity": 100523.45,
+      "change": -21.45,
       "changePercent": -0.0002
     },
     {
-      "timestamp": 1765297800,
-      "equity": 98925.77,
-      "change": -69.25,
-      "changePercent": -0.0007
+      "timestamp": 1765543500,
+      "equity": 100534.78,
+      "change": -10.12,
+      "changePercent": -0.0001
     },
     {
-      "timestamp": 1765298700,
-      "equity": 98914.78,
-      "change": -80.24,
-      "changePercent": -0.0008
+      "timestamp": 1765544400,
+      "equity": 100527.04,
+      "change": -17.86,
+      "changePercent": -0.0002
     },
     {
-      "timestamp": 1765299600,
-      "equity": 99156.9,
-      "change": 161.88,
-      "changePercent": 0.0016
+      "timestamp": 1765545300,
+      "equity": 100501.03,
+      "change": -43.87,
+      "changePercent": -0.0004
     },
     {
-      "timestamp": 1765300500,
-      "equity": 99333.37,
-      "change": 338.35,
-      "changePercent": 0.0034
+      "timestamp": 1765546200,
+      "equity": 100481.26,
+      "change": -63.64,
+      "changePercent": -0.0006
     },
     {
-      "timestamp": 1765301400,
-      "equity": 99562.81,
-      "change": 567.79,
-      "changePercent": 0.0057
+      "timestamp": 1765547100,
+      "equity": 100488.6,
+      "change": -56.3,
+      "changePercent": -0.0006
     },
     {
-      "timestamp": 1765302300,
-      "equity": 99631.77,
-      "change": 636.75,
-      "changePercent": 0.0064
+      "timestamp": 1765548000,
+      "equity": 100488.42,
+      "change": -56.48,
+      "changePercent": -0.0006
     },
     {
-      "timestamp": 1765303200,
-      "equity": 99725.02,
-      "change": 730,
-      "changePercent": 0.0074
+      "timestamp": 1765548900,
+      "equity": 100500.4,
+      "change": -44.5,
+      "changePercent": -0.0004
     },
     {
-      "timestamp": 1765304100,
-      "equity": 99729.02,
-      "change": 734,
-      "changePercent": 0.0074
+      "timestamp": 1765549800,
+      "equity": 100571.63,
+      "change": 26.73,
+      "changePercent": 0.0003
     },
     {
-      "timestamp": 1765305000,
-      "equity": 99808.9,
-      "change": 813.88,
-      "changePercent": 0.0082
+      "timestamp": 1765550700,
+      "equity": 100772.32,
+      "change": 227.42,
+      "changePercent": 0.0023
     },
     {
-      "timestamp": 1765305900,
-      "equity": 99752.27,
-      "change": 757.25,
-      "changePercent": 0.0076
+      "timestamp": 1765551600,
+      "equity": 100764.63,
+      "change": 219.73,
+      "changePercent": 0.0022
     },
     {
-      "timestamp": 1765306800,
-      "equity": 99737.52,
-      "change": 742.5,
-      "changePercent": 0.0075
+      "timestamp": 1765552500,
+      "equity": 100871.88,
+      "change": 326.98,
+      "changePercent": 0.0033
     },
     {
-      "timestamp": 1765307700,
-      "equity": 99679.47,
-      "change": 684.45,
-      "changePercent": 0.0069
+      "timestamp": 1765553400,
+      "equity": 100934.78,
+      "change": 389.88,
+      "changePercent": 0.0039
     },
     {
-      "timestamp": 1765308600,
-      "equity": 99757.77,
-      "change": 762.75,
-      "changePercent": 0.0077
+      "timestamp": 1765554300,
+      "equity": 100845.41,
+      "change": 300.51,
+      "changePercent": 0.003
     },
     {
-      "timestamp": 1765309500,
-      "equity": 99581.4,
-      "change": 586.38,
-      "changePercent": 0.0059
+      "timestamp": 1765555200,
+      "equity": 100915.31,
+      "change": 370.41,
+      "changePercent": 0.0037
     },
     {
-      "timestamp": 1765310400,
-      "equity": 99661.27,
-      "change": 666.25,
-      "changePercent": 0.0067
+      "timestamp": 1765556100,
+      "equity": 100938.29,
+      "change": 393.39,
+      "changePercent": 0.0039
     },
     {
-      "timestamp": 1765311300,
-      "equity": 99662.62,
-      "change": 667.6,
-      "changePercent": 0.0067
-    },
-    {
-      "timestamp": 1765312200,
-      "equity": 99620.9,
-      "change": 625.88,
-      "changePercent": 0.0063
-    },
-    {
-      "timestamp": 1765313100,
-      "equity": 99577.15,
-      "change": 582.13,
-      "changePercent": 0.0059
-    },
-    {
-      "timestamp": 1765314000,
-      "equity": 99548.52,
-      "change": 553.5,
-      "changePercent": 0.0056
-    },
-    {
-      "timestamp": 1765314900,
-      "equity": 99561.23,
-      "change": 566.21,
-      "changePercent": 0.0057
-    },
-    {
-      "timestamp": 1765315800,
-      "equity": 99551.38,
-      "change": 556.36,
-      "changePercent": 0.0056
-    },
-    {
-      "timestamp": 1765316700,
-      "equity": 99531.77,
-      "change": 536.75,
-      "changePercent": 0.0054
-    },
-    {
-      "timestamp": 1765317600,
-      "equity": 99564.52,
-      "change": 569.5,
-      "changePercent": 0.0058
-    },
-    {
-      "timestamp": 1765318500,
-      "equity": 99591.02,
-      "change": 596,
-      "changePercent": 0.006
-    },
-    {
-      "timestamp": 1765319400,
-      "equity": 99549.77,
-      "change": 554.75,
-      "changePercent": 0.0056
-    },
-    {
-      "timestamp": 1765320300,
-      "equity": 99546.02,
-      "change": 551,
-      "changePercent": 0.0056
-    },
-    {
-      "timestamp": 1765321200,
-      "equity": 99569.46,
-      "change": 574.44,
-      "changePercent": 0.0058
-    },
-    {
-      "timestamp": 1765322100,
-      "equity": 99579.55,
-      "change": 584.53,
-      "changePercent": 0.0059
-    },
-    {
-      "timestamp": 1765323000,
-      "equity": 99522.88,
-      "change": 527.86,
-      "changePercent": 0.0053
-    },
-    {
-      "timestamp": 1765323900,
-      "equity": 99552.77,
-      "change": 557.75,
-      "changePercent": 0.0056
-    },
-    {
-      "timestamp": 1765324800,
-      "equity": 99475.35,
-      "change": 480.33,
-      "changePercent": 0.0049
-    },
-    {
-      "timestamp": 1765325700,
-      "equity": 99428.77,
-      "change": 433.75,
-      "changePercent": 0.0044
-    },
-    {
-      "timestamp": 1765326600,
-      "equity": 99407.02,
-      "change": 412,
+      "timestamp": 1765557000,
+      "equity": 100964.35,
+      "change": 419.45,
       "changePercent": 0.0042
     },
     {
-      "timestamp": 1765327500,
-      "equity": 99422.02,
-      "change": 427,
+      "timestamp": 1765557900,
+      "equity": 100990.18,
+      "change": 445.28,
+      "changePercent": 0.0044
+    },
+    {
+      "timestamp": 1765558800,
+      "equity": 100931.11,
+      "change": 386.21,
+      "changePercent": 0.0038
+    },
+    {
+      "timestamp": 1765559700,
+      "equity": 100932.2,
+      "change": 387.3,
+      "changePercent": 0.0039
+    },
+    {
+      "timestamp": 1765560600,
+      "equity": 100937.27,
+      "change": 392.37,
+      "changePercent": 0.0039
+    },
+    {
+      "timestamp": 1765561500,
+      "equity": 100947.53,
+      "change": 402.63,
+      "changePercent": 0.004
+    },
+    {
+      "timestamp": 1765562400,
+      "equity": 100942.9,
+      "change": 398,
+      "changePercent": 0.004
+    },
+    {
+      "timestamp": 1765563300,
+      "equity": 100910.65,
+      "change": 365.75,
+      "changePercent": 0.0036
+    },
+    {
+      "timestamp": 1765564200,
+      "equity": 100904.04,
+      "change": 359.14,
+      "changePercent": 0.0036
+    },
+    {
+      "timestamp": 1765565100,
+      "equity": 100899.16,
+      "change": 354.26,
+      "changePercent": 0.0035
+    },
+    {
+      "timestamp": 1765566000,
+      "equity": 100876.57,
+      "change": 331.67,
+      "changePercent": 0.0033
+    },
+    {
+      "timestamp": 1765566900,
+      "equity": 100896.76,
+      "change": 351.86,
+      "changePercent": 0.0035
+    },
+    {
+      "timestamp": 1765567800,
+      "equity": 100890.23,
+      "change": 345.33,
+      "changePercent": 0.0034
+    },
+    {
+      "timestamp": 1765568700,
+      "equity": 100903.58,
+      "change": 358.68,
+      "changePercent": 0.0036
+    },
+    {
+      "timestamp": 1765569600,
+      "equity": 100896.75,
+      "change": 351.85,
+      "changePercent": 0.0035
+    },
+    {
+      "timestamp": 1765570500,
+      "equity": 100891.31,
+      "change": 346.41,
+      "changePercent": 0.0034
+    },
+    {
+      "timestamp": 1765571400,
+      "equity": 100910.41,
+      "change": 365.51,
+      "changePercent": 0.0036
+    },
+    {
+      "timestamp": 1765572300,
+      "equity": 100985.14,
+      "change": 440.24,
+      "changePercent": 0.0044
+    },
+    {
+      "timestamp": 1765573200,
+      "equity": 100973.18,
+      "change": 428.28,
       "changePercent": 0.0043
     },
     {
-      "timestamp": 1765328400,
-      "equity": 99376.52,
-      "change": 381.5,
+      "timestamp": 1765574100,
+      "equity": 100941.17,
+      "change": 396.27,
       "changePercent": 0.0039
     },
     {
-      "timestamp": 1765357200,
-      "equity": 99647.77,
-      "change": 271.25,
-      "changePercent": 0.0027
+      "timestamp": 1765575000,
+      "equity": 100948.37,
+      "change": 403.47,
+      "changePercent": 0.004
     },
     {
-      "timestamp": 1765358100,
-      "equity": 99647.77,
-      "change": 271.25,
-      "changePercent": 0.0027
-    },
-    {
-      "timestamp": 1765359000,
-      "equity": 99701.52,
-      "change": 325,
-      "changePercent": 0.0033
-    },
-    {
-      "timestamp": 1765359900,
-      "equity": 99683.02,
-      "change": 306.5,
-      "changePercent": 0.0031
-    },
-    {
-      "timestamp": 1765360800,
-      "equity": 99683.27,
-      "change": 306.75,
-      "changePercent": 0.0031
-    },
-    {
-      "timestamp": 1765361700,
-      "equity": 99595.77,
-      "change": 219.25,
-      "changePercent": 0.0022
-    },
-    {
-      "timestamp": 1765362600,
-      "equity": 99315.52,
-      "change": -61,
-      "changePercent": -0.0006
-    },
-    {
-      "timestamp": 1765363500,
-      "equity": 99343.52,
-      "change": -33,
-      "changePercent": -0.0003
-    },
-    {
-      "timestamp": 1765364400,
-      "equity": 99338.52,
-      "change": -38,
-      "changePercent": -0.0004
-    },
-    {
-      "timestamp": 1765365300,
-      "equity": 99345.02,
-      "change": -31.5,
-      "changePercent": -0.0003
-    },
-    {
-      "timestamp": 1765366200,
-      "equity": 99321.27,
-      "change": -55.25,
-      "changePercent": -0.0006
-    },
-    {
-      "timestamp": 1765367100,
-      "equity": 99220.27,
-      "change": -156.25,
-      "changePercent": -0.0016
-    },
-    {
-      "timestamp": 1765368000,
-      "equity": 99153.52,
-      "change": -223,
-      "changePercent": -0.0022
-    },
-    {
-      "timestamp": 1765368900,
-      "equity": 99074.27,
-      "change": -302.25,
-      "changePercent": -0.003
-    },
-    {
-      "timestamp": 1765369800,
-      "equity": 99150.27,
-      "change": -226.25,
-      "changePercent": -0.0023
-    },
-    {
-      "timestamp": 1765370700,
-      "equity": 99149.02,
-      "change": -227.5,
-      "changePercent": -0.0023
-    },
-    {
-      "timestamp": 1765371600,
-      "equity": 99205.52,
-      "change": -171,
-      "changePercent": -0.0017
-    },
-    {
-      "timestamp": 1765372500,
-      "equity": 99286.02,
-      "change": -90.5,
-      "changePercent": -0.0009
-    },
-    {
-      "timestamp": 1765373400,
-      "equity": 99437.52,
-      "change": 61,
-      "changePercent": 0.0006
-    },
-    {
-      "timestamp": 1765374300,
-      "equity": 99355.02,
-      "change": -21.5,
-      "changePercent": -0.0002
-    },
-    {
-      "timestamp": 1765375200,
-      "equity": 99288.52,
-      "change": -88,
-      "changePercent": -0.0009
-    },
-    {
-      "timestamp": 1765376100,
-      "equity": 99322.27,
-      "change": -54.25,
-      "changePercent": -0.0005
-    },
-    {
-      "timestamp": 1765377000,
-      "equity": 99354.52,
-      "change": -22,
-      "changePercent": -0.0002
-    },
-    {
-      "timestamp": 1765377900,
-      "equity": 99732.27,
-      "change": 355.75,
-      "changePercent": 0.0036
-    },
-    {
-      "timestamp": 1765378800,
-      "equity": 99607.04,
-      "change": 230.52,
-      "changePercent": 0.0023
-    },
-    {
-      "timestamp": 1765379700,
-      "equity": 99703.78,
-      "change": 327.26,
-      "changePercent": 0.0033
-    },
-    {
-      "timestamp": 1765380600,
-      "equity": 99752.77,
-      "change": 376.25,
-      "changePercent": 0.0038
-    },
-    {
-      "timestamp": 1765381500,
-      "equity": 99609.4,
-      "change": 232.88,
-      "changePercent": 0.0023
-    },
-    {
-      "timestamp": 1765382400,
-      "equity": 99516.27,
-      "change": 139.75,
-      "changePercent": 0.0014
-    },
-    {
-      "timestamp": 1765383300,
-      "equity": 99664.65,
-      "change": 288.13,
-      "changePercent": 0.0029
-    },
-    {
-      "timestamp": 1765384200,
-      "equity": 99785.35,
-      "change": 408.83,
+      "timestamp": 1765575900,
+      "equity": 100958.24,
+      "change": 413.34,
       "changePercent": 0.0041
     },
     {
-      "timestamp": 1765385100,
-      "equity": 99621.77,
-      "change": 245.25,
-      "changePercent": 0.0025
-    },
-    {
-      "timestamp": 1765386000,
-      "equity": 99720.27,
-      "change": 343.75,
-      "changePercent": 0.0035
-    },
-    {
-      "timestamp": 1765386900,
-      "equity": 99664.23,
-      "change": 287.71,
-      "changePercent": 0.0029
-    },
-    {
-      "timestamp": 1765387800,
-      "equity": 99500.53,
-      "change": 124.01,
-      "changePercent": 0.0012
-    },
-    {
-      "timestamp": 1765388700,
-      "equity": 99522.35,
-      "change": 145.83,
-      "changePercent": 0.0015
-    },
-    {
-      "timestamp": 1765389600,
-      "equity": 99683.27,
-      "change": 306.75,
-      "changePercent": 0.0031
-    },
-    {
-      "timestamp": 1765390500,
-      "equity": 99687.03,
-      "change": 310.51,
-      "changePercent": 0.0031
-    },
-    {
-      "timestamp": 1765391400,
-      "equity": 99395.02,
-      "change": 18.5,
-      "changePercent": 0.0002
-    },
-    {
-      "timestamp": 1765392300,
-      "equity": 99437.27,
-      "change": 60.75,
-      "changePercent": 0.0006
-    },
-    {
-      "timestamp": 1765393200,
-      "equity": 99453.27,
-      "change": 76.75,
-      "changePercent": 0.0008
-    },
-    {
-      "timestamp": 1765394100,
-      "equity": 99889.27,
-      "change": 512.75,
-      "changePercent": 0.0052
-    },
-    {
-      "timestamp": 1765395000,
-      "equity": 99784.52,
-      "change": 408,
+      "timestamp": 1765576800,
+      "equity": 100960.78,
+      "change": 415.88,
       "changePercent": 0.0041
     },
     {
-      "timestamp": 1765395900,
-      "equity": 99838.27,
-      "change": 461.75,
-      "changePercent": 0.0046
+      "timestamp": 1765577700,
+      "equity": 100945.28,
+      "change": 400.38,
+      "changePercent": 0.004
     },
     {
-      "timestamp": 1765396800,
-      "equity": 100223.52,
-      "change": 847,
-      "changePercent": 0.0085
+      "timestamp": 1765578600,
+      "equity": 100950.23,
+      "change": 405.33,
+      "changePercent": 0.004
     },
     {
-      "timestamp": 1765397700,
-      "equity": 100292.27,
-      "change": 915.75,
-      "changePercent": 0.0092
+      "timestamp": 1765579500,
+      "equity": 100952.88,
+      "change": 407.98,
+      "changePercent": 0.0041
     },
     {
-      "timestamp": 1765398600,
-      "equity": 100223.52,
-      "change": 847,
-      "changePercent": 0.0085
+      "timestamp": 1765580400,
+      "equity": 100964.6,
+      "change": 419.7,
+      "changePercent": 0.0042
     },
     {
-      "timestamp": 1765399500,
-      "equity": 100363.07,
-      "change": 986.55,
-      "changePercent": 0.0099
+      "timestamp": 1765581300,
+      "equity": 100965.63,
+      "change": 420.73,
+      "changePercent": 0.0042
     },
     {
-      "timestamp": 1765400400,
-      "equity": 100210.27,
-      "change": 833.75,
-      "changePercent": 0.0084
+      "timestamp": 1765582200,
+      "equity": 100976.57,
+      "change": 431.67,
+      "changePercent": 0.0043
+    },
+    {
+      "timestamp": 1765583100,
+      "equity": 100973.43,
+      "change": 428.53,
+      "changePercent": 0.0043
+    },
+    {
+      "timestamp": 1765584000,
+      "equity": 100972.32,
+      "change": 427.42,
+      "changePercent": 0.0043
+    },
+    {
+      "timestamp": 1765584900,
+      "equity": 100969.48,
+      "change": 424.58,
+      "changePercent": 0.0042
+    },
+    {
+      "timestamp": 1765585800,
+      "equity": 100972.36,
+      "change": 427.46,
+      "changePercent": 0.0043
+    },
+    {
+      "timestamp": 1765586700,
+      "equity": 100970.07,
+      "change": 425.17,
+      "changePercent": 0.0042
+    },
+    {
+      "timestamp": 1765587600,
+      "equity": 100968.24,
+      "change": 423.34,
+      "changePercent": 0.0042
     }
   ],
   "positions": [
     {
       "symbol": "AAPL",
-      "qty": "75",
-      "marketValue": "20882.25",
-      "costBasis": "20864.094",
-      "currentPrice": "278.43",
-      "lastdayPrice": "277.18",
-      "changeToday": "0.0045097048849123"
+      "qty": "21",
+      "marketValue": "5843.88",
+      "costBasis": "5111.74",
+      "currentPrice": "278.28",
+      "lastdayPrice": "278.28",
+      "changeToday": "0"
     },
     {
-      "symbol": "GOOG",
-      "qty": "200",
-      "marketValue": "64132",
-      "costBasis": "63974",
-      "currentPrice": "320.66",
-      "lastdayPrice": "317.75",
-      "changeToday": "0.0091581431943352"
+      "symbol": "AMZN",
+      "qty": "-100",
+      "marketValue": "-22619",
+      "costBasis": "-22785.4",
+      "currentPrice": "226.19",
+      "lastdayPrice": "226.19",
+      "changeToday": "0"
+    },
+    {
+      "symbol": "TSLA",
+      "qty": "1",
+      "marketValue": "458.96",
+      "costBasis": "385.62",
+      "currentPrice": "458.96",
+      "lastdayPrice": "458.96",
+      "changeToday": "0"
     }
   ],
-  "activities": {
-    "e9e7890cd788028605091e40b48c13f86edd39ad8a6002407e4543e6a158aa45": [
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:50:08.800776Z",
-        "type": "partial_fill",
-        "price": "430.29",
-        "qty": "1",
-        "side": "buy",
-        "symbol": "TSLA",
-        "leaves_qty": "2",
-        "cum_qty": "1",
-        "order_status": "partially_filled"
-      },
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:50:09.343046Z",
-        "type": "partial_fill",
-        "price": "430.33",
-        "qty": "1",
-        "side": "buy",
-        "symbol": "TSLA",
-        "leaves_qty": "1",
-        "cum_qty": "2",
-        "order_status": "partially_filled"
-      },
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:50:09.665179Z",
-        "type": "fill",
-        "price": "430.35",
-        "qty": "1",
-        "side": "buy",
-        "symbol": "TSLA",
-        "leaves_qty": "0",
-        "cum_qty": "3",
-        "order_status": "filled"
-      }
-    ],
-    "bd84cab248306b7f2b490080c93caff2b7e5c52349339733977222273ae1ce33": [
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:50:40.944718Z",
-        "type": "partial_fill",
-        "price": "278.04",
-        "qty": "48",
-        "side": "buy",
-        "symbol": "AAPL",
-        "leaves_qty": "52",
-        "cum_qty": "48",
-        "order_status": "partially_filled"
-      },
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:50:41.21715Z",
-        "type": "fill",
-        "price": "278.04",
-        "qty": "52",
-        "side": "buy",
-        "symbol": "AAPL",
-        "leaves_qty": "0",
-        "cum_qty": "100",
-        "order_status": "filled"
-      }
-    ],
-    "0eebea87fe1e3208cf9e95e7ce49f6da53c827d2cfc07f2e314f5d5f3437b392": [
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:50:51.253039Z",
-        "type": "fill",
-        "price": "319.87",
-        "qty": "200",
-        "side": "buy",
-        "symbol": "GOOG",
-        "leaves_qty": "0",
-        "cum_qty": "200",
-        "order_status": "filled"
-      }
-    ],
-    "ebd03d6e468a5f09fba4c98b0d66b414f8eb04d8115790b0ea945211ca9a5499": [
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:57:24.69461Z",
-        "type": "partial_fill",
-        "price": "430.01",
-        "qty": "1",
-        "side": "sell",
-        "symbol": "TSLA",
-        "leaves_qty": "2",
-        "cum_qty": "1",
-        "order_status": "partially_filled"
-      },
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:57:25.11075Z",
-        "type": "partial_fill",
-        "price": "430.01",
-        "qty": "1",
-        "side": "sell",
-        "symbol": "TSLA",
-        "leaves_qty": "1",
-        "cum_qty": "2",
-        "order_status": "partially_filled"
-      },
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:57:25.275007Z",
-        "type": "fill",
-        "price": "429.99",
-        "qty": "1",
-        "side": "sell",
-        "symbol": "TSLA",
-        "leaves_qty": "0",
-        "cum_qty": "3",
-        "order_status": "filled"
-      }
-    ],
-    "f4a3a39826b4a2cff6bddfb04ca7960dba7d0e407641c8b18fba221a59ef523e": [
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:57:32.683219Z",
-        "type": "partial_fill",
-        "price": "278.77",
-        "qty": "6",
-        "side": "buy",
-        "symbol": "AAPL",
-        "leaves_qty": "19",
-        "cum_qty": "6",
-        "order_status": "partially_filled"
-      },
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:57:32.982246Z",
-        "type": "partial_fill",
-        "price": "278.77",
-        "qty": "11",
-        "side": "buy",
-        "symbol": "AAPL",
-        "leaves_qty": "8",
-        "cum_qty": "17",
-        "order_status": "partially_filled"
-      },
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:57:33.28675Z",
-        "type": "partial_fill",
-        "price": "278.8",
-        "qty": "4",
-        "side": "buy",
-        "symbol": "AAPL",
-        "leaves_qty": "4",
-        "cum_qty": "21",
-        "order_status": "partially_filled"
-      },
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:57:33.46331Z",
-        "type": "partial_fill",
-        "price": "278.8",
-        "qty": "2",
-        "side": "buy",
-        "symbol": "AAPL",
-        "leaves_qty": "2",
-        "cum_qty": "23",
-        "order_status": "partially_filled"
-      },
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:57:33.799403Z",
-        "type": "fill",
-        "price": "278.8",
-        "qty": "2",
-        "side": "buy",
-        "symbol": "AAPL",
-        "leaves_qty": "0",
-        "cum_qty": "25",
-        "order_status": "filled"
-      }
-    ],
-    "b8d1d8ba6520d0747db97385e4e9eb8ab469be49fcdeff4b0ad48a87569c1bc4": [
-      {
-        "activity_type": "FILL",
-        "transaction_time": "2025-11-28T17:58:58.744181Z",
-        "type": "fill",
-        "price": "278.89",
-        "qty": "50",
-        "side": "sell",
-        "symbol": "AAPL",
-        "leaves_qty": "0",
-        "cum_qty": "50",
-        "order_status": "filled"
-      }
-    ]
-  }
+  "activities": {}
 }
