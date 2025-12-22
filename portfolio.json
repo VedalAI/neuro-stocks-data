@@ -1,8 +1,8 @@
 {
   "account": {
-    "cash": "19865.28",
-    "equity": "20137.3",
-    "portfolioValue": "20137.3",
+    "cash": "-19965.84",
+    "equity": "20137.9",
+    "portfolioValue": "20137.9",
     "originalInvestment": 20000
   },
   "history": [
@@ -638,20 +638,107 @@
     },
     {
       "timestamp": 1766425500,
-      "equity": 20137.31,
-      "change": 0.16,
+      "equity": 20137.28,
+      "change": 0.13,
+      "changePercent": 0
+    },
+    {
+      "timestamp": 1766426400,
+      "equity": 20137.61,
+      "change": 0.46,
       "changePercent": 0
     }
   ],
   "positions": [
     {
       "symbol": "AAPL",
-      "qty": "1",
-      "marketValue": "272.02",
-      "costBasis": "271.8599",
-      "currentPrice": "272.02",
+      "qty": "31",
+      "marketValue": "8415.88",
+      "costBasis": "8435.5649",
+      "currentPrice": "271.48",
       "lastdayPrice": "273.67",
-      "changeToday": "-0.0060291592063434"
+      "changeToday": "-0.0080023385829649"
+    },
+    {
+      "symbol": "AMC",
+      "qty": "2",
+      "marketValue": "3.43",
+      "costBasis": "3.433",
+      "currentPrice": "1.715",
+      "lastdayPrice": "1.75",
+      "changeToday": "-0.02"
+    },
+    {
+      "symbol": "AMZN",
+      "qty": "10",
+      "marketValue": "2282.2",
+      "costBasis": "2279.235",
+      "currentPrice": "228.22",
+      "lastdayPrice": "227.35",
+      "changeToday": "0.0038266989223664"
+    },
+    {
+      "symbol": "GME",
+      "qty": "4",
+      "marketValue": "88.22",
+      "costBasis": "88.34",
+      "currentPrice": "22.055",
+      "lastdayPrice": "22.51",
+      "changeToday": "-0.0202132385606397"
+    },
+    {
+      "symbol": "GOOGL",
+      "qty": "5",
+      "marketValue": "1545.35",
+      "costBasis": "1543.775",
+      "currentPrice": "309.07",
+      "lastdayPrice": "307.16",
+      "changeToday": "0.0062182575856231"
+    },
+    {
+      "symbol": "MSFT",
+      "qty": "10",
+      "marketValue": "4861.5",
+      "costBasis": "4860.035",
+      "currentPrice": "486.15",
+      "lastdayPrice": "485.92",
+      "changeToday": "0.0004733289430359"
+    },
+    {
+      "symbol": "NVDA",
+      "qty": "30",
+      "marketValue": "5494.8",
+      "costBasis": "5486.904",
+      "currentPrice": "183.16",
+      "lastdayPrice": "180.99",
+      "changeToday": "0.0119896126857837"
+    },
+    {
+      "symbol": "QQQ",
+      "qty": "10",
+      "marketValue": "6199.35",
+      "costBasis": "6192.799",
+      "currentPrice": "619.935",
+      "lastdayPrice": "617.05",
+      "changeToday": "0.0046754720038895"
+    },
+    {
+      "symbol": "SGML",
+      "qty": "100",
+      "marketValue": "1313.5",
+      "costBasis": "1314.58",
+      "currentPrice": "13.135",
+      "lastdayPrice": "12.19",
+      "changeToday": "0.0775225594749795"
+    },
+    {
+      "symbol": "TSLA",
+      "qty": "20",
+      "marketValue": "9899.2",
+      "costBasis": "9898.3",
+      "currentPrice": "494.96",
+      "lastdayPrice": "481.2",
+      "changeToday": "0.028595178719867"
     }
   ],
   "activities": {
@@ -666,6 +753,146 @@
         "symbol": "AAPL",
         "leaves_qty": "0",
         "cum_qty": "1",
+        "order_status": "filled"
+      }
+    ],
+    "bdccf86be3ce22058fe4d254ff33d1a3d9abf2a6880ac4da8e57beee14509ac0": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-22T17:46:59.199Z",
+        "type": "fill",
+        "price": "272.1235",
+        "qty": "30",
+        "side": "buy",
+        "symbol": "AAPL",
+        "leaves_qty": "0",
+        "cum_qty": "30",
+        "order_status": "filled"
+      }
+    ],
+    "65999d21596a90e07a69f6b34a0d2e658920eb61aa51e932beddeba345562f69": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-22T17:47:31.605Z",
+        "type": "fill",
+        "price": "182.8968",
+        "qty": "30",
+        "side": "buy",
+        "symbol": "NVDA",
+        "leaves_qty": "0",
+        "cum_qty": "30",
+        "order_status": "filled"
+      }
+    ],
+    "3edf75cfade0dfbef9ba137c415896133d5bc7199ec0e0b25bf7231d10ca5762": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-22T17:47:39.721Z",
+        "type": "fill",
+        "price": "486.0035",
+        "qty": "10",
+        "side": "buy",
+        "symbol": "MSFT",
+        "leaves_qty": "0",
+        "cum_qty": "10",
+        "order_status": "filled"
+      }
+    ],
+    "4d1f4d5f47018360ac80dc0f8ccc03b5e5962a67a49246f2f438f65f234d187a": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-22T17:48:10.146Z",
+        "type": "fill",
+        "price": "619.2799",
+        "qty": "10",
+        "side": "buy",
+        "symbol": "QQQ",
+        "leaves_qty": "0",
+        "cum_qty": "10",
+        "order_status": "filled"
+      }
+    ],
+    "f9533992c7d202b2725da6032fd1df0e39443f8e6d008a4a511dcca3106354d6": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-22T17:50:14.178Z",
+        "type": "fill",
+        "price": "308.755",
+        "qty": "5",
+        "side": "buy",
+        "symbol": "GOOGL",
+        "leaves_qty": "0",
+        "cum_qty": "5",
+        "order_status": "filled"
+      }
+    ],
+    "1c9edf4eab4658957c4235fe9249c6db04ddede2cb5686b111792b75399fb5eb": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-22T17:50:47.218Z",
+        "type": "fill",
+        "price": "494.915",
+        "qty": "20",
+        "side": "buy",
+        "symbol": "TSLA",
+        "leaves_qty": "0",
+        "cum_qty": "20",
+        "order_status": "filled"
+      }
+    ],
+    "b5d5db1ee1ecf1c241a50bd72478601b7ac117b2a538b6f4ce5bae5ab26aae64": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-22T17:51:32.946Z",
+        "type": "fill",
+        "price": "227.9235",
+        "qty": "10",
+        "side": "buy",
+        "symbol": "AMZN",
+        "leaves_qty": "0",
+        "cum_qty": "10",
+        "order_status": "filled"
+      }
+    ],
+    "646c4d64d05d5a661a987aa9c0b2bdcd509724566a7dbf5679bc30a60b1f0210": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-22T17:52:10.325Z",
+        "type": "fill",
+        "price": "13.1458",
+        "qty": "100",
+        "side": "buy",
+        "symbol": "SGML",
+        "leaves_qty": "0",
+        "cum_qty": "100",
+        "order_status": "filled"
+      }
+    ],
+    "76a3aa1a6838fc389df5554bfaa7426eec1afe675eba4445003edf36cbfa054c": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-22T17:54:53.12Z",
+        "type": "fill",
+        "price": "22.085",
+        "qty": "4",
+        "side": "buy",
+        "symbol": "GME",
+        "leaves_qty": "0",
+        "cum_qty": "4",
+        "order_status": "filled"
+      }
+    ],
+    "416baf9bb2baebc4135259220a55bb37859e7d356f90d8c589aadce7185d25c1": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-22T17:55:19.652Z",
+        "type": "fill",
+        "price": "1.7165",
+        "qty": "2",
+        "side": "buy",
+        "symbol": "AMC",
+        "leaves_qty": "0",
+        "cum_qty": "2",
         "order_status": "filled"
       }
     ]
