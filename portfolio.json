@@ -1,8 +1,8 @@
 {
   "account": {
-    "cash": "20137.15",
-    "equity": "20137.15",
-    "portfolioValue": "20137.15",
+    "cash": "19865.28",
+    "equity": "20137.3",
+    "portfolioValue": "20137.3",
     "originalInvestment": 20000
   },
   "history": [
@@ -635,8 +635,39 @@
       "equity": 20137.15,
       "change": 0,
       "changePercent": 0
+    },
+    {
+      "timestamp": 1766425500,
+      "equity": 20137.31,
+      "change": 0.16,
+      "changePercent": 0
     }
   ],
-  "positions": [],
-  "activities": {}
+  "positions": [
+    {
+      "symbol": "AAPL",
+      "qty": "1",
+      "marketValue": "272.02",
+      "costBasis": "271.8599",
+      "currentPrice": "272.02",
+      "lastdayPrice": "273.67",
+      "changeToday": "-0.0060291592063434"
+    }
+  ],
+  "activities": {
+    "42b343a99d1f8212cf8b99e53d0ee6a230a1138bb413f87996373b0b46e681fc": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-22T17:42:52.589Z",
+        "type": "fill",
+        "price": "271.8599",
+        "qty": "1",
+        "side": "buy",
+        "symbol": "AAPL",
+        "leaves_qty": "0",
+        "cum_qty": "1",
+        "order_status": "filled"
+      }
+    ]
+  }
 }
