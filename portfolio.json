@@ -1,8 +1,8 @@
 {
   "account": {
-    "cash": "-19973.33",
-    "equity": "20411.85",
-    "portfolioValue": "20411.85",
+    "cash": "-18937.04",
+    "equity": "20534.68",
+    "portfolioValue": "20534.68",
     "originalInvestment": 20000
   },
   "history": [
@@ -7196,101 +7196,164 @@
     },
     {
       "timestamp": 1766771700,
-      "equity": 20412.21,
-      "change": 72.59,
+      "equity": 20407.62,
+      "change": 68,
+      "changePercent": 0.0033
+    },
+    {
+      "timestamp": 1766771760,
+      "equity": 20416.21,
+      "change": 76.59,
+      "changePercent": 0.0038
+    },
+    {
+      "timestamp": 1766771820,
+      "equity": 20416.94,
+      "change": 77.32,
+      "changePercent": 0.0038
+    },
+    {
+      "timestamp": 1766771880,
+      "equity": 20413.79,
+      "change": 74.17,
       "changePercent": 0.0036
+    },
+    {
+      "timestamp": 1766771940,
+      "equity": 20413.37,
+      "change": 73.75,
+      "changePercent": 0.0036
+    },
+    {
+      "timestamp": 1766772000,
+      "equity": 20411.09,
+      "change": 71.47,
+      "changePercent": 0.0035
+    },
+    {
+      "timestamp": 1766772060,
+      "equity": 20401.22,
+      "change": 61.6,
+      "changePercent": 0.003
+    },
+    {
+      "timestamp": 1766772120,
+      "equity": 20392.23,
+      "change": 52.61,
+      "changePercent": 0.0026
+    },
+    {
+      "timestamp": 1766772180,
+      "equity": 20395.14,
+      "change": 55.52,
+      "changePercent": 0.0027
+    },
+    {
+      "timestamp": 1766772240,
+      "equity": 20416.69,
+      "change": 77.07,
+      "changePercent": 0.0038
+    },
+    {
+      "timestamp": 1766772300,
+      "equity": 20421.61,
+      "change": 81.99,
+      "changePercent": 0.004
+    },
+    {
+      "timestamp": 1766772360,
+      "equity": 20413.13,
+      "change": 73.51,
+      "changePercent": 0.0036
+    },
+    {
+      "timestamp": 1766772420,
+      "equity": 20473.06,
+      "change": 133.44,
+      "changePercent": 0.0066
+    },
+    {
+      "timestamp": 1766772480,
+      "equity": 20501.06,
+      "change": 161.44,
+      "changePercent": 0.0079
+    },
+    {
+      "timestamp": 1766772540,
+      "equity": 20441.6,
+      "change": 101.98,
+      "changePercent": 0.005
+    },
+    {
+      "timestamp": 1766772600,
+      "equity": 20514.65,
+      "change": 175.03,
+      "changePercent": 0.0086
     }
   ],
   "positions": [
     {
-      "symbol": "AAPL",
-      "qty": "31",
-      "marketValue": "8509.19",
-      "costBasis": "8435.5649",
-      "currentPrice": "274.49",
-      "lastdayPrice": "273.81",
-      "changeToday": "0.0024834739417844"
-    },
-    {
       "symbol": "AMC",
       "qty": "2",
-      "marketValue": "3.31",
+      "marketValue": "3.3084",
       "costBasis": "3.433",
-      "currentPrice": "1.655",
+      "currentPrice": "1.6542",
       "lastdayPrice": "1.68",
-      "changeToday": "-0.0148809523809524"
+      "changeToday": "-0.0153571428571429"
     },
     {
       "symbol": "AMZN",
       "qty": "10",
-      "marketValue": "2328.9",
+      "marketValue": "2327",
       "costBasis": "2279.235",
-      "currentPrice": "232.89",
+      "currentPrice": "232.7",
       "lastdayPrice": "232.38",
-      "changeToday": "0.0021946811257423"
-    },
-    {
-      "symbol": "GME",
-      "qty": "4",
-      "marketValue": "84.56",
-      "costBasis": "88.34",
-      "currentPrice": "21.14",
-      "lastdayPrice": "21.53",
-      "changeToday": "-0.0181142591732466"
+      "changeToday": "0.0013770548239952"
     },
     {
       "symbol": "GOOGL",
       "qty": "5",
-      "marketValue": "1568.175",
+      "marketValue": "1567.575",
       "costBasis": "1543.775",
-      "currentPrice": "313.635",
+      "currentPrice": "313.515",
       "lastdayPrice": "314.09",
-      "changeToday": "-0.0014486293737464"
+      "changeToday": "-0.0018306854723169"
     },
     {
       "symbol": "MSFT",
       "qty": "10",
-      "marketValue": "4871.5",
+      "marketValue": "4868.8",
       "costBasis": "4860.035",
-      "currentPrice": "487.15",
+      "currentPrice": "486.88",
       "lastdayPrice": "488.02",
-      "changeToday": "-0.001782713823204"
+      "changeToday": "-0.0023359698373017"
     },
     {
       "symbol": "NVDA",
-      "qty": "30",
-      "marketValue": "5730.9",
-      "costBasis": "5486.904",
-      "currentPrice": "191.03",
+      "qty": "33",
+      "marketValue": "6313.725",
+      "costBasis": "6060.8637",
+      "currentPrice": "191.325",
       "lastdayPrice": "188.61",
-      "changeToday": "0.0128307088701553"
+      "changeToday": "0.0143947828853189"
     },
     {
       "symbol": "QQQ",
       "qty": "10",
-      "marketValue": "6240.599",
+      "marketValue": "6241.1",
       "costBasis": "6192.799",
-      "currentPrice": "624.0599",
+      "currentPrice": "624.11",
       "lastdayPrice": "623.93",
-      "changeToday": "0.0002081964322921"
+      "changeToday": "0.0002884939015595"
     },
     {
       "symbol": "SGML",
-      "qty": "100",
-      "marketValue": "1449",
-      "costBasis": "1314.58",
-      "currentPrice": "14.49",
+      "qty": "1250",
+      "marketValue": "18150",
+      "costBasis": "17895.305",
+      "currentPrice": "14.52",
       "lastdayPrice": "13.51",
-      "changeToday": "0.0725388601036269"
-    },
-    {
-      "symbol": "TSLA",
-      "qty": "20",
-      "marketValue": "9598.6",
-      "costBasis": "9898.3",
-      "currentPrice": "479.93",
-      "lastdayPrice": "485.4",
-      "changeToday": "-0.0112690564482901"
+      "changeToday": "0.074759437453738"
     }
   ],
   "activities": {
@@ -7445,6 +7508,90 @@
         "symbol": "AMC",
         "leaves_qty": "0",
         "cum_qty": "2",
+        "order_status": "filled"
+      }
+    ],
+    "2cb828155f71c8e8d8350351fa52f1fa388842384132867edebc4a35e56e5cd6": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-26T18:02:05.748Z",
+        "type": "fill",
+        "price": "479.7843",
+        "qty": "20",
+        "side": "sell",
+        "symbol": "TSLA",
+        "leaves_qty": "0",
+        "cum_qty": "20",
+        "order_status": "filled"
+      }
+    ],
+    "5bb8095b4f5a76e6d18f52294be4debc830814502b1583fadf0904e51885bf69": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-26T18:03:25.514Z",
+        "type": "fill",
+        "price": "14.3599",
+        "qty": "500",
+        "side": "buy",
+        "symbol": "SGML",
+        "leaves_qty": "0",
+        "cum_qty": "500",
+        "order_status": "filled"
+      }
+    ],
+    "39419577be8b182fd10ca9eba4fb25b15d4bb4844f4d4cbcfc4a9e80140ecce9": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-26T18:04:28.508Z",
+        "type": "fill",
+        "price": "21.1235",
+        "qty": "4",
+        "side": "sell",
+        "symbol": "GME",
+        "leaves_qty": "0",
+        "cum_qty": "4",
+        "order_status": "filled"
+      }
+    ],
+    "1ac3def1284865ba34810a3a02167e913474b66eb186646dabe8f8cfeb550fb1": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-26T18:05:17.111Z",
+        "type": "fill",
+        "price": "14.4055",
+        "qty": "150",
+        "side": "buy",
+        "symbol": "SGML",
+        "leaves_qty": "0",
+        "cum_qty": "150",
+        "order_status": "filled"
+      }
+    ],
+    "9509e654f1d93af9a63e24c297ec5c97c126f2689ca20824e6d4b804a91ec0c9": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-26T18:07:47.742Z",
+        "type": "fill",
+        "price": "274.5435",
+        "qty": "31",
+        "side": "sell",
+        "symbol": "AAPL",
+        "leaves_qty": "0",
+        "cum_qty": "31",
+        "order_status": "filled"
+      }
+    ],
+    "0ccb44dd015d1b9c3e61f73c58d9a1606932c67c4fa7a703aff35c7b88a2023f": [
+      {
+        "activity_type": "FILL",
+        "transaction_time": "2025-12-26T18:09:45.828Z",
+        "type": "fill",
+        "price": "191.3199",
+        "qty": "3",
+        "side": "buy",
+        "symbol": "NVDA",
+        "leaves_qty": "0",
+        "cum_qty": "3",
         "order_status": "filled"
       }
     ]
