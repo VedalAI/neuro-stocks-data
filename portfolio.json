@@ -1,8 +1,8 @@
 {
   "account": {
     "cash": "-18969.76",
-    "equity": "21336.71",
-    "portfolioValue": "21336.71",
+    "equity": "21245.51",
+    "portfolioValue": "21245.51",
     "originalInvestment": 20000
   },
   "history": [
@@ -1406,29 +1406,29 @@
     {
       "symbol": "AMZN",
       "qty": "10",
-      "marketValue": "2328",
+      "marketValue": "2326.7",
       "costBasis": "2279.235",
-      "currentPrice": "232.8",
+      "currentPrice": "232.67",
       "lastdayPrice": "233.06",
-      "changeToday": "-0.0011155925512743"
+      "changeToday": "-0.0016733888269115"
     },
     {
       "symbol": "GOOGL",
       "qty": "5",
-      "marketValue": "1582.65",
+      "marketValue": "1581.95",
       "costBasis": "1543.775",
-      "currentPrice": "316.53",
+      "currentPrice": "316.39",
       "lastdayPrice": "316.54",
-      "changeToday": "-0.000031591584002"
+      "changeToday": "-0.0004738737600303"
     },
     {
       "symbol": "MSFT",
       "qty": "10",
-      "marketValue": "4724.1",
+      "marketValue": "4723.2",
       "costBasis": "4860.035",
-      "currentPrice": "472.41",
+      "currentPrice": "472.32",
       "lastdayPrice": "472.85",
-      "changeToday": "-0.0009305276514751"
+      "changeToday": "-0.0011208628529132"
     },
     {
       "symbol": "NVDA",
@@ -1442,20 +1442,20 @@
     {
       "symbol": "QQQ",
       "qty": "10",
-      "marketValue": "6179.3",
+      "marketValue": "6178.5",
       "costBasis": "6192.799",
-      "currentPrice": "617.93",
+      "currentPrice": "617.85",
       "lastdayPrice": "617.99",
-      "changeToday": "-0.0000970889496594"
+      "changeToday": "-0.0002265408825386"
     },
     {
       "symbol": "SGML",
       "qty": "1250",
-      "marketValue": "19250",
+      "marketValue": "19162.5",
       "costBasis": "17895.305",
-      "currentPrice": "15.4",
+      "currentPrice": "15.33",
       "lastdayPrice": "15.2",
-      "changeToday": "0.0131578947368421"
+      "changeToday": "0.0085526315789474"
     }
   ],
   "activities": {
