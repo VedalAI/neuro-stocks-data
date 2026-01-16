@@ -1,8 +1,8 @@
 {
   "account": {
     "cash": "-19015.99",
-    "equity": "16985.75",
-    "portfolioValue": "16985.75",
+    "equity": "17123.51",
+    "portfolioValue": "17123.51",
     "originalInvestment": 20000
   },
   "history": [
@@ -113,11 +113,11 @@
     {
       "symbol": "AMC",
       "qty": "2",
-      "marketValue": "3.22",
+      "marketValue": "3.24",
       "costBasis": "3.433",
-      "currentPrice": "1.61",
+      "currentPrice": "1.62",
       "lastdayPrice": "1.6",
-      "changeToday": "0.00625"
+      "changeToday": "0.0125"
     },
     {
       "symbol": "AMZN",
@@ -131,29 +131,29 @@
     {
       "symbol": "GOOGL",
       "qty": "5",
-      "marketValue": "1649",
+      "marketValue": "1649.7",
       "costBasis": "1543.775",
-      "currentPrice": "329.8",
+      "currentPrice": "329.94",
       "lastdayPrice": "332.78",
-      "changeToday": "-0.0089548650760262"
+      "changeToday": "-0.0085341667167498"
     },
     {
       "symbol": "MSFT",
       "qty": "10",
-      "marketValue": "4600.5",
+      "marketValue": "4599.7",
       "costBasis": "4860.035",
-      "currentPrice": "460.05",
+      "currentPrice": "459.97",
       "lastdayPrice": "456.66",
-      "changeToday": "0.0074234660360005"
+      "changeToday": "0.0072482809968029"
     },
     {
       "symbol": "NVDA",
       "qty": "33",
-      "marketValue": "6148.2201",
+      "marketValue": "6148.56",
       "costBasis": "6060.8637",
-      "currentPrice": "186.3097",
+      "currentPrice": "186.32",
       "lastdayPrice": "187.05",
-      "changeToday": "-0.0039577653033948"
+      "changeToday": "-0.0039026998128843"
     },
     {
       "symbol": "QQQ",
@@ -167,11 +167,11 @@
     {
       "symbol": "SGML",
       "qty": "1250",
-      "marketValue": "15000",
+      "marketValue": "15137.5",
       "costBasis": "17895.305",
-      "currentPrice": "12",
+      "currentPrice": "12.11",
       "lastdayPrice": "14.25",
-      "changeToday": "-0.1578947368421053"
+      "changeToday": "-0.1501754385964912"
     }
   ],
   "activities": {
