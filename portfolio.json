@@ -1,8 +1,8 @@
 {
   "account": {
     "cash": "-19015.99",
-    "equity": "16640.89",
-    "portfolioValue": "16640.89",
+    "equity": "16795.73",
+    "portfolioValue": "16795.73",
     "originalInvestment": 20000
   },
   "history": [
@@ -122,29 +122,29 @@
     {
       "symbol": "AMZN",
       "qty": "10",
-      "marketValue": "2382.29",
+      "marketValue": "2382.35",
       "costBasis": "2279.235",
-      "currentPrice": "238.229",
+      "currentPrice": "238.235",
       "lastdayPrice": "238.18",
-      "changeToday": "0.000205726761273"
+      "changeToday": "0.0002309177932656"
     },
     {
       "symbol": "GOOGL",
       "qty": "5",
-      "marketValue": "1647.75",
+      "marketValue": "1648.65",
       "costBasis": "1543.775",
-      "currentPrice": "329.55",
+      "currentPrice": "329.73",
       "lastdayPrice": "332.78",
-      "changeToday": "-0.0097061121461626"
+      "changeToday": "-0.0091652142556644"
     },
     {
       "symbol": "MSFT",
       "qty": "10",
-      "marketValue": "4617",
+      "marketValue": "4612.701",
       "costBasis": "4860.035",
-      "currentPrice": "461.7",
+      "currentPrice": "461.2701",
       "lastdayPrice": "456.66",
-      "changeToday": "0.0110366574694521"
+      "changeToday": "0.0100952568650637"
     },
     {
       "symbol": "NVDA",
@@ -158,20 +158,20 @@
     {
       "symbol": "QQQ",
       "qty": "10",
-      "marketValue": "6218.3",
+      "marketValue": "6219.75",
       "costBasis": "6192.799",
-      "currentPrice": "621.83",
+      "currentPrice": "621.975",
       "lastdayPrice": "621.78",
-      "changeToday": "0.000080414294445"
+      "changeToday": "0.0003136157483354"
     },
     {
       "symbol": "SGML",
       "qty": "1250",
-      "marketValue": "14587.5",
+      "marketValue": "14743.75",
       "costBasis": "17895.305",
-      "currentPrice": "11.67",
+      "currentPrice": "11.795",
       "lastdayPrice": "14.25",
-      "changeToday": "-0.1810526315789474"
+      "changeToday": "-0.172280701754386"
     }
   ],
   "activities": {
