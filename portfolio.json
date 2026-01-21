@@ -1,8 +1,8 @@
 {
   "account": {
-    "cash": "-19019.54",
-    "equity": "18243.21",
-    "portfolioValue": "18243.21",
+    "cash": "-19033.76",
+    "equity": "18228.99",
+    "portfolioValue": "18228.99",
     "originalInvestment": 20000
   },
   "history": [
@@ -113,6 +113,12 @@
       "equity": 17319.17,
       "change": -2483.29,
       "changePercent": -0.1254
+    },
+    {
+      "timestamp": 1768957200,
+      "equity": 18300.09,
+      "change": 980.92,
+      "changePercent": 0.0566
     }
   ],
   "positions": [
