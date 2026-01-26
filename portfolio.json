@@ -1,8 +1,8 @@
 {
   "account": {
     "cash": "-19044.43",
-    "equity": "20026.78",
-    "portfolioValue": "20026.78",
+    "equity": "20314.51",
+    "portfolioValue": "20314.51",
     "originalInvestment": 20000
   },
   "history": [
@@ -140,56 +140,56 @@
     {
       "symbol": "AMZN",
       "qty": "10",
-      "marketValue": "2385.3",
+      "marketValue": "2387.5",
       "costBasis": "2279.235",
-      "currentPrice": "238.53",
+      "currentPrice": "238.75",
       "lastdayPrice": "239.16",
-      "changeToday": "-0.0026342197691922"
+      "changeToday": "-0.0017143335005854"
     },
     {
       "symbol": "GOOGL",
       "qty": "5",
-      "marketValue": "1630.9",
+      "marketValue": "1634.2",
       "costBasis": "1543.775",
-      "currentPrice": "326.18",
+      "currentPrice": "326.84",
       "lastdayPrice": "327.93",
-      "changeToday": "-0.0053365047418656"
+      "changeToday": "-0.003323880096362"
     },
     {
       "symbol": "MSFT",
       "qty": "10",
-      "marketValue": "4647.7",
+      "marketValue": "4671.5",
       "costBasis": "4860.035",
-      "currentPrice": "464.77",
+      "currentPrice": "467.15",
       "lastdayPrice": "465.95",
-      "changeToday": "-0.0025324605644382"
+      "changeToday": "0.0025753836248525"
     },
     {
       "symbol": "NVDA",
       "qty": "33",
-      "marketValue": "6142.95",
+      "marketValue": "6153.18",
       "costBasis": "6060.8637",
-      "currentPrice": "186.15",
+      "currentPrice": "186.46",
       "lastdayPrice": "187.67",
-      "changeToday": "-0.0080993232802259"
+      "changeToday": "-0.0064474876112325"
     },
     {
       "symbol": "QQQ",
       "qty": "10",
-      "marketValue": "6211.2",
+      "marketValue": "6221.9",
       "costBasis": "6192.799",
-      "currentPrice": "621.12",
+      "currentPrice": "622.19",
       "lastdayPrice": "622.72",
-      "changeToday": "-0.0025693730729702"
+      "changeToday": "-0.0008511048304214"
     },
     {
       "symbol": "SGML",
       "qty": "1250",
-      "marketValue": "18050",
+      "marketValue": "18287.5",
       "costBasis": "17895.305",
-      "currentPrice": "14.44",
+      "currentPrice": "14.63",
       "lastdayPrice": "14.74",
-      "changeToday": "-0.0203527815468114"
+      "changeToday": "-0.0074626865671642"
     }
   ],
   "activities": {
