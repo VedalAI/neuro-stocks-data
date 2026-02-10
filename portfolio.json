@@ -1,8 +1,8 @@
 {
   "account": {
     "cash": "-19105.03",
-    "equity": "15520.1",
-    "portfolioValue": "15520.1",
+    "equity": "15530.61",
+    "portfolioValue": "15530.61",
     "originalInvestment": 20000
   },
   "history": [
@@ -131,29 +131,29 @@
     {
       "symbol": "AMC",
       "qty": "2",
-      "marketValue": "2.7",
+      "marketValue": "2.68",
       "costBasis": "3.433",
-      "currentPrice": "1.35",
+      "currentPrice": "1.34",
       "lastdayPrice": "1.34",
-      "changeToday": "0.00746"
+      "changeToday": "0"
     },
     {
       "symbol": "AMZN",
       "qty": "10",
-      "marketValue": "2069.508",
+      "marketValue": "2073.499",
       "costBasis": "2279.235",
-      "currentPrice": "206.9508",
+      "currentPrice": "207.3499",
       "lastdayPrice": "208.72",
-      "changeToday": "-0.00848"
+      "changeToday": "-0.00656"
     },
     {
       "symbol": "GOOGL",
       "qty": "5",
-      "marketValue": "1592.45",
+      "marketValue": "1592.2225",
       "costBasis": "1543.775",
-      "currentPrice": "318.49",
+      "currentPrice": "318.4445",
       "lastdayPrice": "324.32",
-      "changeToday": "-0.01798"
+      "changeToday": "-0.01812"
     },
     {
       "symbol": "MSFT",
@@ -167,20 +167,20 @@
     {
       "symbol": "NVDA",
       "qty": "33",
-      "marketValue": "6220.17",
+      "marketValue": "6223.14",
       "costBasis": "6060.8637",
-      "currentPrice": "188.49",
+      "currentPrice": "188.58",
       "lastdayPrice": "190.04",
-      "changeToday": "-0.00816"
+      "changeToday": "-0.00768"
     },
     {
       "symbol": "QQQ",
       "qty": "10",
-      "marketValue": "6118.8",
+      "marketValue": "6122.6",
       "costBasis": "6192.799",
-      "currentPrice": "611.88",
+      "currentPrice": "612.26",
       "lastdayPrice": "614.32",
-      "changeToday": "-0.00397"
+      "changeToday": "-0.00335"
     },
     {
       "symbol": "SGML",
