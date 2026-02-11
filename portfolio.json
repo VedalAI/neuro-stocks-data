@@ -1,8 +1,8 @@
 {
   "account": {
     "cash": "-19108.61",
-    "equity": "17349.43",
-    "portfolioValue": "17349.43",
+    "equity": "17458.96",
+    "portfolioValue": "17458.96",
     "originalInvestment": 20000
   },
   "history": [
@@ -140,56 +140,56 @@
     {
       "symbol": "AMZN",
       "qty": "10",
-      "marketValue": "2049.6",
+      "marketValue": "2044.7",
       "costBasis": "2279.235",
-      "currentPrice": "204.96",
+      "currentPrice": "204.47",
       "lastdayPrice": "206.96",
-      "changeToday": "-0.00966"
+      "changeToday": "-0.01203"
     },
     {
       "symbol": "GOOGL",
       "qty": "5",
-      "marketValue": "1560.5995",
+      "marketValue": "1555.1",
       "costBasis": "1543.775",
-      "currentPrice": "312.1199",
+      "currentPrice": "311.02",
       "lastdayPrice": "318.58",
-      "changeToday": "-0.02028"
+      "changeToday": "-0.02373"
     },
     {
       "symbol": "MSFT",
       "qty": "10",
-      "marketValue": "4049.65",
+      "marketValue": "4050.75",
       "costBasis": "4860.035",
-      "currentPrice": "404.965",
+      "currentPrice": "405.075",
       "lastdayPrice": "413.27",
-      "changeToday": "-0.0201"
+      "changeToday": "-0.01983"
     },
     {
       "symbol": "NVDA",
       "qty": "33",
-      "marketValue": "6333.3831",
+      "marketValue": "6321.4965",
       "costBasis": "6060.8637",
-      "currentPrice": "191.9207",
+      "currentPrice": "191.5605",
       "lastdayPrice": "188.54",
-      "changeToday": "0.01793"
+      "changeToday": "0.01602"
     },
     {
       "symbol": "QQQ",
       "qty": "10",
-      "marketValue": "6136.4",
+      "marketValue": "6130.7",
       "costBasis": "6192.799",
-      "currentPrice": "613.64",
+      "currentPrice": "613.07",
       "lastdayPrice": "611.47",
-      "changeToday": "0.00355"
+      "changeToday": "0.00262"
     },
     {
       "symbol": "SGML",
       "qty": "1250",
-      "marketValue": "16325",
+      "marketValue": "16462.5",
       "costBasis": "17895.305",
-      "currentPrice": "13.06",
+      "currentPrice": "13.17",
       "lastdayPrice": "11.59",
-      "changeToday": "0.12683"
+      "changeToday": "0.13632"
     }
   ],
   "activities": {
