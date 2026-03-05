@@ -1,8 +1,8 @@
 {
   "account": {
     "cash": "-19183.75",
-    "equity": "17503.15",
-    "portfolioValue": "17503.15",
+    "equity": "17750.27",
+    "portfolioValue": "17750.27",
     "originalInvestment": 20000
   },
   "history": [
@@ -140,56 +140,56 @@
     {
       "symbol": "AMZN",
       "qty": "10",
-      "marketValue": "2162.2",
+      "marketValue": "2160.3",
       "costBasis": "2279.235",
-      "currentPrice": "216.22",
+      "currentPrice": "216.03",
       "lastdayPrice": "208.73",
-      "changeToday": "0.03588"
+      "changeToday": "0.03497"
     },
     {
       "symbol": "GOOGL",
       "qty": "5",
-      "marketValue": "1514.1",
+      "marketValue": "1514.6",
       "costBasis": "1543.775",
-      "currentPrice": "302.82",
+      "currentPrice": "302.92",
       "lastdayPrice": "303.58",
-      "changeToday": "-0.0025"
+      "changeToday": "-0.00217"
     },
     {
       "symbol": "MSFT",
       "qty": "10",
-      "marketValue": "4068",
+      "marketValue": "4064.2",
       "costBasis": "4860.035",
-      "currentPrice": "406.8",
+      "currentPrice": "406.42",
       "lastdayPrice": "403.93",
-      "changeToday": "0.00711"
+      "changeToday": "0.00616"
     },
     {
       "symbol": "NVDA",
       "qty": "33",
-      "marketValue": "6040.98",
+      "marketValue": "6042.3",
       "costBasis": "6060.863688",
-      "currentPrice": "183.06",
+      "currentPrice": "183.1",
       "lastdayPrice": "180.05",
-      "changeToday": "0.01672"
+      "changeToday": "0.01694"
     },
     {
       "symbol": "QQQ",
       "qty": "10",
-      "marketValue": "6111.8",
+      "marketValue": "6112.8",
       "costBasis": "6192.799",
-      "currentPrice": "611.18",
+      "currentPrice": "611.28",
       "lastdayPrice": "601.58",
-      "changeToday": "0.01596"
+      "changeToday": "0.01612"
     },
     {
       "symbol": "SGML",
       "qty": "1250",
-      "marketValue": "16787.5",
+      "marketValue": "17037.5",
       "costBasis": "17895.305",
-      "currentPrice": "13.43",
+      "currentPrice": "13.63",
       "lastdayPrice": "12.61",
-      "changeToday": "0.06503"
+      "changeToday": "0.08089"
     }
   ],
   "activities": {
