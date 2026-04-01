@@ -1,8 +1,8 @@
 {
   "account": {
     "cash": "-19249.3",
-    "equity": "14445.26",
-    "portfolioValue": "14445.26",
+    "equity": "14221.76",
+    "portfolioValue": "14221.76",
     "originalInvestment": 20000
   },
   "history": [
@@ -131,65 +131,65 @@
     {
       "symbol": "AMC",
       "qty": "2",
-      "marketValue": "2.01",
+      "marketValue": "1.9966",
       "costBasis": "3.433",
-      "currentPrice": "1.005",
+      "currentPrice": "0.9983",
       "lastdayPrice": "0.98",
-      "changeToday": "0.02551"
+      "changeToday": "0.01867"
     },
     {
       "symbol": "AMZN",
       "qty": "10",
-      "marketValue": "2116.25",
+      "marketValue": "2105.85",
       "costBasis": "2279.235",
-      "currentPrice": "211.625",
+      "currentPrice": "210.585",
       "lastdayPrice": "208.27",
-      "changeToday": "0.01611"
+      "changeToday": "0.01112"
     },
     {
       "symbol": "GOOGL",
       "qty": "5",
-      "marketValue": "1491.7",
+      "marketValue": "1485.75",
       "costBasis": "1543.775",
-      "currentPrice": "298.34",
+      "currentPrice": "297.15",
       "lastdayPrice": "287.56",
-      "changeToday": "0.03749"
+      "changeToday": "0.03335"
     },
     {
       "symbol": "MSFT",
       "qty": "10",
-      "marketValue": "3705.7",
+      "marketValue": "3694",
       "costBasis": "4860.035",
-      "currentPrice": "370.57",
+      "currentPrice": "369.4",
       "lastdayPrice": "370.17",
-      "changeToday": "0.00108"
+      "changeToday": "-0.00208"
     },
     {
       "symbol": "NVDA",
       "qty": "33",
-      "marketValue": "5792.49",
+      "marketValue": "5780.61",
       "costBasis": "6060.863688",
-      "currentPrice": "175.53",
+      "currentPrice": "175.17",
       "lastdayPrice": "174.4",
-      "changeToday": "0.00648"
+      "changeToday": "0.00442"
     },
     {
       "symbol": "QQQ",
       "qty": "10",
-      "marketValue": "5849.9",
+      "marketValue": "5834.2",
       "costBasis": "6192.799",
-      "currentPrice": "584.99",
+      "currentPrice": "583.42",
       "lastdayPrice": "577.18",
-      "changeToday": "0.01353"
+      "changeToday": "0.01081"
     },
     {
       "symbol": "SGML",
       "qty": "1250",
-      "marketValue": "14737.5",
+      "marketValue": "14568.75",
       "costBasis": "17895.305",
-      "currentPrice": "11.79",
+      "currentPrice": "11.655",
       "lastdayPrice": "12.34",
-      "changeToday": "-0.04457"
+      "changeToday": "-0.05551"
     }
   ],
   "activities": {
