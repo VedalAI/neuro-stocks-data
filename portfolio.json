@@ -1,8 +1,8 @@
 {
   "account": {
     "cash": "-19339.53",
-    "equity": "28480.43",
-    "portfolioValue": "28480.43",
+    "equity": "28425.74",
+    "portfolioValue": "28425.74",
     "originalInvestment": 20000
   },
   "history": [
@@ -131,56 +131,56 @@
     {
       "symbol": "AMC",
       "qty": "2",
-      "marketValue": "3.3",
+      "marketValue": "3.28",
       "costBasis": "3.433",
-      "currentPrice": "1.65",
+      "currentPrice": "1.64",
       "lastdayPrice": "1.65",
-      "changeToday": "0"
+      "changeToday": "-0.00606"
     },
     {
       "symbol": "AMZN",
       "qty": "10",
-      "marketValue": "2620",
+      "marketValue": "2610",
       "costBasis": "2279.235",
-      "currentPrice": "262",
+      "currentPrice": "261",
       "lastdayPrice": "261.12",
-      "changeToday": "0.00337"
+      "changeToday": "-0.00046"
     },
     {
       "symbol": "GOOGL",
       "qty": "5",
-      "marketValue": "1755",
+      "marketValue": "1752.6",
       "costBasis": "1543.775",
-      "currentPrice": "351",
+      "currentPrice": "350.52",
       "lastdayPrice": "350.34",
-      "changeToday": "0.00188"
+      "changeToday": "0.00051"
     },
     {
       "symbol": "MSFT",
       "qty": "10",
-      "marketValue": "4233.7",
+      "marketValue": "4228.1",
       "costBasis": "4860.035",
-      "currentPrice": "423.37",
+      "currentPrice": "422.81",
       "lastdayPrice": "424.82",
-      "changeToday": "-0.00341"
+      "changeToday": "-0.00473"
     },
     {
       "symbol": "NVDA",
       "qty": "33",
-      "marketValue": "7089.06",
+      "marketValue": "7059.69",
       "costBasis": "6060.863688",
-      "currentPrice": "214.82",
+      "currentPrice": "213.93",
       "lastdayPrice": "216.61",
-      "changeToday": "-0.00826"
+      "changeToday": "-0.01237"
     },
     {
       "symbol": "QQQ",
       "qty": "10",
-      "marketValue": "6618.9",
+      "marketValue": "6611.6",
       "costBasis": "6192.799",
-      "currentPrice": "661.89",
+      "currentPrice": "661.16",
       "lastdayPrice": "664.23",
-      "changeToday": "-0.00352"
+      "changeToday": "-0.00462"
     },
     {
       "symbol": "SGML",
